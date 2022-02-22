@@ -1,0 +1,627 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A moderate short discourse concerning tenderness of conscience by John Bradshaw ...</title>
+            <author>Bradshaw, John, 1602-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29138</idno>
+            <idno type="STC">Wing B4154</idno>
+            <idno type="STC">ESTC R32859</idno>
+            <idno type="EEBO-CITATION">12774762</idno>
+            <idno type="OCLC">ocm 12774762</idno>
+            <idno type="VID">93742</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93742)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1521:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A moderate short discourse concerning tenderness of conscience by John Bradshaw ...</title>
+                  <author>Bradshaw, John, 1602-1659.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Best for Andrew Crook ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Errata: p. [4]</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conscience.</term>
+               <term>Christian ethics.</term>
+               <term>Moderation --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93742:1" rendition="simple:additions"/>
+            <p>A MODERATE SHORT DISCOURSE CONCERNING Tenderneſs of Conſcience.</p>
+            <p>By JOHN BRADSHAW Rector of <hi>Ettchingham</hi> in <hi>Suſſex.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Acts</hi> 10.14.</bibl> Not ſo Lord.</q>
+            <q>Faelix Conſcientia, in qua miſcericordia &amp; veritas obviaverunt ſibi, juſtitia &amp; pax oſculatae ſunt. <bibl>
+                  <hi>St. Bern. de interiori domo.</hi>
+               </bibl>
+            </q>
+            <q>
+               <l>— Ego nec tumultum</l>
+               <l>Nec mori per vim metuam, Te <hi>habente</hi>
+               </l>
+               <l>
+                  <hi>Carole</hi> terras. <bibl>
+                     <hi>Hor. Car. lib. 3. od. 14.</hi>
+                  </bibl>
+               </l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Beſt</hi> for <hi>Andrew Crook</hi> at the <hi>Green Dragon</hi> in Saint <hi>Pauls</hi> Church-yard.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:93742:2" rendition="simple:additions"/>
+            <p>PErlegi hunc tractatum de Tenera Conſcientia in quo nihil reperio aut ſanae doctrinae aut bonis mo<g ref="char:EOLhyphen"/>ribus contrarium quo minus Imprimatur.</p>
+            <closer>
+               <signed>Dan. Nicols R. P. D. Arch. Cant. Capel. Domeſticus.</signed>
+               <dateline>
+                  <hi>In Aedibus Lambethanis</hi>
+                  <date>
+                     <hi>Mart.</hi> 26. 1663.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="prayer">
+            <p>AMen qui dicitur, qui Alpha &amp; Omega, quaerentibus qui via eſt, credentibus veritas, viventi<g ref="char:EOLhyphen"/>bus vita, inutilem me ſervum ſuum dirigat ne errem extra viam, regat ne agam contra veritatem, erigat ne ca<g ref="char:EOLhyphen"/>dam infra vitam, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:93742:2"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving provided upon that dark and gloomy day <hi>Januar. 30.</hi> laſt, ſome meditations upon that ſcri<g ref="char:EOLhyphen"/>pture <hi>1 Sam. 24.5.</hi> After I had ſhewed how a ſelf-ſmiting heart, or a tender conſcience is ever moſt tender of of<g ref="char:EOLhyphen"/>fering the leaſt injury to the Lords Anointed, and how much the implacable enemies of his late Majesty of ever glorious memory had cut off from him, I thought it might be no ill office to any, but poſſibly ſerviceable to the deſires of many who have deſired to be acquainted with the meaning of that, to which ſo many for many years have pretended, if I took a brief Survey of a ſelf-ſmiting heart or tenderneſs of conſcience in general. The ſubject is purely Theological, and therefore not unſutable to a Church mans ſearch: nor know I of any, either at home or abroad, that have written profeſſedly and direct<g ref="char:EOLhyphen"/>ly of that ſubject. I handle it only as <hi>thema ſimplex;</hi> not taking upon me to define how far our governours may or may not bear with or yield to tender, dubious, or ſcrupulous conſcien<g ref="char:EOLhyphen"/>ces.
+<pb facs="tcp:93742:3"/> I have ever been very tender and wary of dealing in any State affairs, whether purely po<g ref="char:EOLhyphen"/>litical, or mixt, as partly theological, partly poli<g ref="char:EOLhyphen"/>tical. I leave that to the Higher powers, only begging of God to guide them in all things for the beſt. Four things I have aim'd at, and en<g ref="char:EOLhyphen"/>deavour'd in this diſcourſe: Firſt truth, that I may not deceive: Secondly clearneſs, that I may not confound: Thirdly moderation, that I may not offend: Fourthly brevity, that I may not tire. Bleſſed be the King of Kings, that hath not only reſtored us our King again, but a King ſo graci<g ref="char:EOLhyphen"/>ous, ſo earneſtly and conſtantly deſirous of the well-fare of the ſouls, conſciences, and external proſperity of his people. God give to all his peo<g ref="char:EOLhyphen"/>ple hearts to make a dutiful and grateful return of Love, Loyalty, and Obedience, <hi>Amen.</hi>
+            </p>
+            <q>
+               <hi>Jam fides, &amp; pax, &amp; honor pudorque Priſcus, &amp; neglecta redire virtus Audet,</hi> &amp;c. <bibl>Hor. carm. ſaecul.</bibl>
+            </q>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>
+               <hi>PAg.</hi> 1. <hi>l.</hi> 15. <hi>r.</hi> expreſſing, <hi>p.</hi> 3. <hi>l.</hi> 15. <hi>r.</hi> cold, <hi>p.</hi> 4. in <hi>mar. r.</hi> as, <hi>p.</hi> 4. <hi>l.</hi> 18. <hi>r.</hi> plainneſs, <hi>p.</hi> 4. in <hi>mar. r.</hi> audeo dicere, <hi>p.</hi> 6. <hi>l.</hi> 14. <hi>r.</hi> ve<g ref="char:EOLhyphen"/>getative, <hi>p.</hi> 6. <hi>l.</hi> 26. <hi>r.</hi> intentions, <hi>p.</hi> 6. <hi>l.</hi> 28. <hi>r.</hi> intention, <hi>p.</hi> 11. in <hi>mar. r.</hi> ponderant, <hi>p.</hi> 16. <hi>l.</hi> 32. <hi>r.</hi> expected, <hi>p.</hi> 16. in <hi>mar. r.</hi> 1, 2. <hi>p.</hi> 17. <hi>l.</hi> 3. <hi>r.</hi> and knows, <hi>p</hi> 19. in <hi>mar. r.</hi> vel, <hi>p.</hi> 21. <hi>l.</hi> 11. <hi>r.</hi> in our callings.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:93742:3"/>
+            <head>OF TENDERNESS OF Conſcience.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Owever the phraſe or<note n="(a)" place="margin">Taken from the moſt tender parts of the body, as the eye, <hi>&amp;</hi> or rom ſome part newly healed.</note> expreſſion of <hi>tenderneſs of Conſcience,</hi> is not to be found in Holy Scripture, <hi>totidem verbis,</hi> yet the thing it ſelf is both in precepts and examples. In<note n="*" place="margin">
+                     <hi>Tim.</hi> 5.22. keep thy ſelf pure, <hi>Eccleſ.</hi> 9.2. as he that feareth an oath.</note> precepts 1 <hi>Tim.</hi> 3.9. holding the myſtery of faith in a <hi>pure Conſcience.</hi> 1 <hi>Theſ.</hi> 5.22. abſtain from <hi>all appearance of evil,</hi> or (as it may be read) from all <hi>kind</hi> of evil. Beſides theſe and many other precepts, we have<note n="†" place="margin">
+                     <hi>Gen.</hi> 44.17. God forbid I ſhould do ſo, 2 <hi>Sam.</hi> 24.10. <hi>Davids</hi> heart ſmote him, 1 <hi>Chro.</hi> 11.19. my God for<g ref="char:EOLhyphen"/>bid it me that I ſhould do this thing.</note> 
+                  <hi>examples</hi> many: Of <hi>David</hi> 1 <hi>Sam.</hi> 24.5. troubled for cutting of his Soveraigns Skirt; of <hi>Paul Act.</hi> 23.1. and <hi>Act.</hi> 24.16. and elſewhere. Other ex<g ref="char:EOLhyphen"/>amples there are, which for brevity I pretermit. That of <hi>Joſiah</hi> uſually alledged, is not ſo clearly per<g ref="char:EOLhyphen"/>tinent 2 <hi>Chron.</hi> 34.27. the tenderneſs of his heart ex<g ref="char:EOLhyphen"/>preſſeth it ſelf in humiliation.</p>
+               <p n="2">2. Tenderneſs of Conſcience, or a tender Conſci<g ref="char:EOLhyphen"/>ence, is a gracious <hi>mean</hi> betwixt a <hi>ſcrupulous</hi> Con<g ref="char:EOLhyphen"/>ſcience on the <hi>right hand,</hi> and a <hi>wide, ſluggiſh</hi> or <hi>ſear<g ref="char:EOLhyphen"/>ed</hi> Conſcience on the <hi>left hand;</hi> whereby we are <hi>quickly and deeply ſenſible</hi> of having done, and <hi>wary</hi> of doing any evil God hath clearly forbidden, or of
+<pb n="2" facs="tcp:93742:4"/> omitting any good he hath clearly commanded.</p>
+               <p n="3">3. A mean or mediocrity is that which lies betwixt two extreames, and is ordinarily twofold:<note n="(a)" place="margin">Medium per participa<g ref="char:EOLhyphen"/>tionem, ſeu ſecundum for<g ref="char:EOLhyphen"/>mam per ne<g ref="char:EOLhyphen"/>gationem utri<g ref="char:EOLhyphen"/>uſque extremi ſeu per priva<g ref="char:EOLhyphen"/>tionem <hi>Jandu<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s.</hi>
+                  </note> 1. Of <hi>Participation,</hi> ſo a <hi>gray</hi> colour is a <hi>mean</hi> betwixt <hi>black</hi> and <hi>white,</hi> as partaking of both. 2. Of <hi>Abnegation,</hi> ſo <hi>moral virtues</hi> are a <hi>mean</hi> betwixt two vicious ex<g ref="char:EOLhyphen"/>treames, as denying to ſhare with either, but rather receeding from, and oppoſing both. The former I may not unfitly term,<note n="(b)" place="margin">Medium compoſitionis vel oppoſitionis.</note> 
+                  <hi>Medium compoſitionis;</hi> the latter <hi>Medium oppoſitionis.</hi>
+               </p>
+               <p n="4">4. Theſe means are of ſeveral ſorts, Natural, Artifi<g ref="char:EOLhyphen"/>cial and Moral. Not to ſpeak of the 2. former, a Moral mean is twofold, 1. A <hi>Virtue,</hi> 2. A thing <hi>Indifferent.</hi> A <hi>Virtue</hi> is a medium, whoſe two ex<g ref="char:EOLhyphen"/>treams<note n="(c)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp;c. <hi>Ariſtot. Ethic.</hi> lib. 2. c. 6.</note> are <hi>both evil.</hi> A thing <hi>Indifferent,</hi> whoſe two extreams are one <hi>evil,</hi> the other <hi>good</hi> in gene<g ref="char:EOLhyphen"/>ral.</p>
+               <p n="5">5. All <hi>moral virtues,</hi> however for their <hi>quality</hi> they are an <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and for their <hi>degree,</hi> yet as to their <hi>eſſence</hi> they are<note n="(d)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ibid.</note> a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Thus <hi>valour</hi> lies be<g ref="char:EOLhyphen"/>twixt <hi>raſh venturouſneſs</hi> on one hand, and <hi>cowardiſe</hi> on the other; <hi>liberality</hi> betwixt <hi>prodigality</hi> and <hi>covetuouſ<g ref="char:EOLhyphen"/>neſs, magnificence</hi> betwixt <hi>waſt</hi> and <hi>parcimony, magna<g ref="char:EOLhyphen"/>nimity</hi> betwixt<note n="(e)" place="margin">Rebus au<g ref="char:EOLhyphen"/>guſtis animo<g ref="char:EOLhyphen"/>ſus atque fortis appare, ſapienter idem, contrahes vento nimium ſecundo, turgida vela, <hi>Hor.</hi>
+                  </note> 
+                  <hi>pride</hi> and <hi>puſillanimity, modeſty</hi> be<g ref="char:EOLhyphen"/>twixt <hi>ambition</hi> and <hi>contempt of honour, meekneſs</hi> betwixt <hi>wrath</hi> and <hi>over much lenitude</hi> or <hi>ſheepiſh<g ref="char:EOLhyphen"/>neſs,</hi> &amp;c.</p>
+               <p n="6">6. As it is in <hi>Moral virtues,</hi> ſo it is in <hi>Chriſtian graces,</hi>
+                  <note place="margin">As polling the head is a mean betwixt letting the hair grow at full length, and ſhaving it quite off. So <hi>EZek.</hi> 44.20. Neither ſhall they ſhave their heads, nor ſuffer their locks to grow long, they ſhall only poll their heads, <hi>ſpoken of the Jewiſh Prieſts.</hi>
+                  </note> they are ſeated between two extreams, which
+<pb n="3" facs="tcp:93742:4"/> yet are not only by <hi>defect</hi> and <hi>exceſs,</hi> but by a <hi>contra<g ref="char:EOLhyphen"/>ry deviation</hi> alſo from a <hi>juſt intermediate rectitude. Deut.</hi> 5.32. you ſhall obſerve to do what the Lord your God hath commanded you; you ſhall not <hi>turn aſide to the right hand nor to the left.</hi> Mat. 7.14. Strait is the gate, and<note n="(a)" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Ariſtot. ubi ſupra, ſed tendit in ardua virtus. Ovid.</note> 
+                  <hi>narrow is the way.</hi>
+               </p>
+               <p>
+                  <hi>Contrition</hi> for ſin is a mean 'twixt <hi>hardneſs</hi> and <hi>no ſorrow,</hi> 1 <hi>Cor.</hi> 5.2. on one hand, and being <hi>over<g ref="char:EOLhyphen"/>whelmed</hi> with <hi>over much ſorrow</hi> on the other, 2 <hi>Cor.</hi> 2.7. <hi>Juſtifying faith</hi> is a mean betwixt <hi>works,</hi> as pre<g ref="char:EOLhyphen"/>tending to juſtification on one ſide, and a <hi>dead faith</hi> void of works on the other. Hope is ſeated 'twixt <hi>deſperation</hi> and <hi>preſumption; Charity</hi> 'twixt <hi>jealous, raſh ſuſpicion</hi> on one ſide, and <hi>blind affection</hi> on the other; <hi>Zeal</hi> 'twixt a <hi>cooler</hi> or (which is worſe) a <hi>lukewarm</hi> temper on this ſide, and a <hi>phrenetical fu<g ref="char:EOLhyphen"/>rious</hi> diſtemper on that ſide; <hi>Temperance</hi> is a keeping the body in ſubjection between <hi>pining</hi> and <hi>pinching</hi> on one part,<note place="margin">Sicut inter a<g ref="char:EOLhyphen"/>quam, &amp; ignem tenenda eſt via, ut nec exuratur homo nec demerga<g ref="char:EOLhyphen"/>tur; ita inter apicem viti<g ref="char:EOLhyphen"/>orum in exceſſu &amp; inter vora<g ref="char:EOLhyphen"/>ginem eorun<g ref="char:EOLhyphen"/>dem in defectu, iter noſtrum temperare de<g ref="char:EOLhyphen"/>bemus ne vel ad dextram vel ſiniſtram decli<g ref="char:EOLhyphen"/>nemus <hi>Augu<g ref="char:EOLhyphen"/>ſtin.</hi>
+                  </note> and <hi>glutting</hi> and <hi>pampering</hi> it on the other. <hi>Timothy</hi> being infirm was adviſed to drink no longer <hi>water,</hi> but a little <hi>wine</hi> for his ſtomacks ſake and his often infirmities, 1 <hi>Tim.</hi> 5.23. And <hi>Amnon</hi> had done well (of whom we read 2 <hi>Sam.</hi> 12.28) if he had drunk no longer wine, but a little wa<g ref="char:EOLhyphen"/>ter for his ſouls ſake and filthy luſtfulneſs. Patience is betwixt <hi>repining and raging</hi> on the left hand, and a <hi>ſtupified ſenſleſneſs</hi> on the right. <hi>Self denial</hi> 'twixt <hi>ſelf love,</hi> reſolving to loſe nothing though God call for it; and ſelf neglect or injury, in giving up all when we need not, as in the <hi>vow</hi> of <hi>poverty. Spiri<g ref="char:EOLhyphen"/>tual joy</hi> 'twixt a <hi>drooping heavy ſpirit,</hi> and a <hi>carnal wanton profuſe joy.</hi>
+               </p>
+               <p>The <hi>fear</hi> of God is a narrow path, between a<note n="(b)" place="margin">Qui ſolo timore facit quod jubetur licet bonum facit non tamen bene facit. Sanctus <hi>Aug.</hi> de ſpir. &amp; litera. Nemo invi<g ref="char:EOLhyphen"/>tus bene facit, etiamſi bonum eſt quod fa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t, invitus facit qui ſolo timore facit, <hi>lib. confeſs. 1. c. 12.</hi>
+                  </note> 
+                  <hi>ſlaviſh fear</hi> on one ſide, and a <hi>want</hi> of <hi>all fear</hi> on the other; between the <hi>ſpirit of bondage,</hi> Rom. 8.
+<pb n="4" facs="tcp:93742:5"/> 
+                  <hi>Heb.</hi> 2. where <hi>love</hi> hath not predominion <hi>above fear</hi> and <hi>fearleſneſs,</hi> where <hi>fear</hi> hath not predominion above <hi>ſecurity.</hi>
+               </p>
+               <p n="7">7. As Chriſtian <hi>graces,</hi> ſo Chriſtian <hi>duties</hi> are <hi>fenced within</hi> the ſame <hi>narrow</hi> path.<note n="(a)" place="margin">Before thou prayeſt prepare thy ſelf, and be not one that tempts the Lord, <hi>Eccleſ.</hi> 18.23.</note> To come <hi>without preparation</hi> to them, is to offer <hi>indignity</hi> to them; to ſpend <hi>over much time</hi> in it, is to <hi>incroach</hi> upon them. In <hi>hearing,</hi> we walk upon a <hi>narrow bridge,</hi> and <hi>muſt take heed how we hear;</hi> for we muſt neither <hi>ſuperciliouſly</hi> or <hi>irreverently</hi> hear, becauſe it is<note n="(b)" place="margin">Luk. <hi>10.16.</hi> Non ſum propheta, non ſum Apoſtolus; &amp; prophetae &amp; apoſtoli (audeo dicent) vice fungor: &amp; quibus non ae<g ref="char:EOLhyphen"/>quor mer tis, corum implicor curis, <hi>Bern. ſuper Cantic. Serm. 42.</hi>
+                  </note> 
+                  <hi>God</hi> that ſpeaks by <hi>man;</hi> nor muſt we <hi>blindly</hi> and <hi>careleſly ſwallow all</hi> we hear, becauſe it is but <hi>Man</hi> by whom God ſpeaks. In the duty of <hi>Preaching,</hi> we are neither on one hand, ſo to Preach the <hi>law</hi> and <hi>damnation</hi> as to <hi>drive</hi> men to <hi>deſperation;</hi> nor on the other, ſo to <hi>manage the Goſpel</hi> and the <hi>ſweet promiſes,</hi> as to <hi>draw</hi> them to <hi>preſumption:</hi> we muſt ſpeak as the <hi>oracles</hi> of God, and yet uſe <hi>plains;</hi> miniſter <hi>milk,</hi> and yet <hi>ſtrong meat.</hi> In reception of <hi>the Lords Sup<g ref="char:EOLhyphen"/>per</hi> I muſt ſtrike a middle path, betwixt <hi>profane irre<g ref="char:EOLhyphen"/>verence</hi> and <hi>ſuperſtitious adoration.</hi>
+                  <note n="(c)" place="margin">Non ſe miſceat conſcientiae tuae laudis humanae appetitus cum in cleem oſyna faci<g ref="char:EOLhyphen"/>enda d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vinum praeceptum contendis implere. <hi>Aug.</hi>
+                  </note> In giving alms I muſt paſs between the <hi>right</hi> hand and the <hi>left.</hi>
+               </p>
+               <p n="8">8. To him that <hi>impartially</hi> &amp; <hi>diligently</hi> ſearches into the moſt <hi>dark</hi> and <hi>difficult diſputes,</hi>
+                  <note place="margin">Diſputes and controverſies are the Churches con<g ref="char:EOLhyphen"/>vulſion fits.</note> that do at this day trouble the Church, it will I think be apparent, that the truth lies in a mean betwixt two unſafe extreams. This I humbly conceive might be made appear in the difficulties concerning <hi>Gods infallible foreſight,</hi> and yet his <hi>permiſſion</hi> of what is <hi>not pleaſing</hi> to him.<note place="margin">Auream quiſ<g ref="char:EOLhyphen"/>quis mediocri<g ref="char:EOLhyphen"/>tatem diligit, tutus, &amp;c. <hi>Hor. lib. 2. od. 10.</hi>
+                  </note> We need neither deny or impair Gods <hi>purity</hi> or <hi>holineſs,</hi> nor yet his <hi>providence;</hi> neither the <hi>freedome of his grace,</hi> nor yet that <hi>freedome of will</hi> which is ne<g ref="char:EOLhyphen"/>ceſſary to a <hi>rational</hi> creature. The ſame may be ſaid of the controverſies concerning <hi>unbelief, perfection in this life,</hi> the <hi>virtue</hi> and <hi>efficacy</hi> of the <hi>Sacraments,
+<pb n="5" facs="tcp:93742:5"/> original ſin, Chriſts mediation,</hi>
+                  <note place="margin">Tene medium, ſi non vis per<g ref="char:EOLhyphen"/>dere modum, locus medius tutus eſt, me<g ref="char:EOLhyphen"/>dium ſedes mo<g ref="char:EOLhyphen"/>di, &amp; modus virtus, <hi>Bern. de conſid. lib. 3. cap. 10.</hi>
+                  </note> 
+                  <hi>Gods juſtification of a ſinner, aſſurance of ſalvation, perſeverance in grace, the Lords day,</hi> and all the diſputes about <hi>worſhip and di<g ref="char:EOLhyphen"/>ſcipline.</hi> The middle path in all which and ſeveral others, though as to my private ſatisfaction I have tracted in ſome meaſure, yet <hi>here</hi> I muſt not do it, having already been too large upon the <hi>genus</hi> of a tender Conſcience, contrary to the rules of ſhort and poſitive diſcourſes; only my <hi>intire love</hi> to <hi>mode<g ref="char:EOLhyphen"/>ration</hi> (of which I crave pardon, if <hi>it</hi> keep not a <hi>mean</hi> alſo) hath drawn me out ſo far, <hi>nor can</hi> I paſs from it, till I have obſerved one thing more, <hi>viz.</hi>
+               </p>
+               <p n="9">9.<note place="margin">Sancta eccleſia conſiſtit unita<g ref="char:EOLhyphen"/>te fidelium, ſicut corpus uni<g ref="char:EOLhyphen"/>tate membro<g ref="char:EOLhyphen"/>rum, <hi>Gregor. Mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. lib. 29.</hi>
+                  </note> That amongſt all thoſe <hi>ſeveral ways</hi> of Chri<g ref="char:EOLhyphen"/>ſtian Religion <hi>(oh that there were but one way, though upon condition I forfeited and loſt my life as often as there are ſeveral ways)</hi> that ſeems the trueſt that ſtands in the middle betwixt what is <hi>idolatrous</hi> and what <hi>pro<g ref="char:EOLhyphen"/>fane,</hi> what is <hi>toyiſh</hi> and <hi>ſuperſtitious,</hi> and what is <hi>naked</hi> and <hi>rude;</hi> holding to the Scriptures againſt the one,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>odicis rebus longius aevum eſt, <hi>Senec. Trag. in Agamem.</hi>
+                  </note> and to judgement and practice of <hi>venerable antiquity,</hi> where the Scriptures are dark, againſt the other. And for this, view one of the <hi>pearls</hi> that dropt from the <hi>rich Pen</hi> of our late <hi>dear and dread Soveraign King Charles</hi> the Martyr, in his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>a book ſo exeellent for Wiſ<g ref="char:EOLhyphen"/>dome, Judgment, Piety, Charity, Elegancy, that it is worthy to be in the Hands, Head, and Heart of all Chriſtians;</hi> In his Farewell Letter to the Prince of <hi>Wales,</hi> now our Gracious King, ſpeaking of the Re<g ref="char:EOLhyphen"/>ligion eſtabliſht in the Church of <hi>England,</hi> his Maje<g ref="char:EOLhyphen"/>ſty gives it this Elogium.</p>
+               <p>
+                  <hi>I have tryed it, and after much ſearch and many diſputes, have concluded it to be the beſt in the world, not only in the community as Chriſtian, but alſo in the ſpecial notion as reformed, keeping the middle way between the pomp of Superſtiti<g ref="char:EOLhyphen"/>ous
+<pb n="6" facs="tcp:93742:6"/> Tyranny, and the meaneſs of Phantaſtick Anarchy.</hi>
+               </p>
+               <p>Kings ſtanding higher, ſee farther then other men in matters of Church and State.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <p n="1">
+                  <note place="margin">Virtutibus ho<g ref="char:EOLhyphen"/>mo diſponitur ad act<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ones ſuas quatenus a ratione move<g ref="char:EOLhyphen"/>tur, donis vero quatenus mo<g ref="char:EOLhyphen"/>vetur a Deo, <hi>Aquinas.</hi> Virtus theolo<g ref="char:EOLhyphen"/>gica.</note>I. THis tenderneſs of Conſcience is a <hi>gracious</hi> mean, which diſtinguiſhes it from a <hi>bare moral</hi> vir<g ref="char:EOLhyphen"/>tue: For however there is a Conſcience in <hi>every</hi> man, as having the <hi>law of nature</hi> in his heart, ſo that a <hi>mere natural</hi> man or <hi>Heathen,</hi> may have ſome <hi>kind</hi> of tenderneſs of Conſcience; yet here I ſpeak of it as it is a <hi>Chriſtian</hi> virtue, and therefore call it a <hi>gra<g ref="char:EOLhyphen"/>cious</hi> mean.</p>
+               <p n="2">2. <hi>Chriſtian graces</hi> do <hi>eminently</hi> contain under them all <hi>moral virtues,</hi> as the <hi>reaſonable ſoul</hi> contains the <hi>ſenſitive</hi> and <hi>vigetative.</hi>
+                  <note place="margin">Poſſunt aliqua bona fieri non benefacientibus a quibus fiunt, <hi>Auguſt. contra Julian.</hi> Hypocritae ſunt ſimulatores mali adjun<g ref="char:EOLhyphen"/>gentes ſe fictâ charitate cap<g ref="char:EOLhyphen"/>tantes omnes motus omnia verba ſancto<g ref="char:EOLhyphen"/>rum, in omni<g ref="char:EOLhyphen"/>bus <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aqueos inquirentes. St. <hi>Aug.</hi> in <hi>Pſal. 40.</hi>
+                  </note> Moral virtues being alſo as the <hi>ſtock,</hi> and graces as the <hi>grafts:</hi> for as the <hi>ſtock</hi> may bring forth fruit, yet <hi>harſh, not pleaſing, ſower, not acceptable</hi> till it be grafted; ſo a <hi>moral</hi> man may bring forth much fruit, yet <hi>not pleaſing</hi> to God, till <hi>grace</hi> be <hi>grafted</hi> on him.</p>
+               <p n="3">3. Therefore that tenderneſs which an <hi>hypocrite</hi> or carnal man pretends to, is not <hi>true tenderneſs,</hi> nor pleaſing to God: Yea the <hi>more tender</hi> ſuch a perſon makes himſelf, the <hi>more ſeared</hi> is his conſcience through hypocriſie. <hi>Abſolom</hi> 2 <hi>Sam.</hi> 15.6. pretend<g ref="char:EOLhyphen"/>ed much tenderneſs about his vow in <hi>Hebron,</hi> when his <hi>intention,</hi> were to <hi>dethrone</hi> his father. The grace<g ref="char:EOLhyphen"/>leſs Phariſees did pretend a tenderneſs of the Sabbath, but their <hi>intentions</hi> was to <hi>accuſe</hi> our Saviour.</p>
+               <p n="4">4. Whence it follows, that the <hi>more ſound</hi> and <hi>well grown</hi> grace is in the heart,<note place="margin">Mat. 12.20.</note> the <hi>more tender</hi> is the
+<pb n="7" facs="tcp:93742:6"/> conſcience; and contrariwiſe the leſs grace, the leſs true tenderneſs. And for a <hi>graceleſs</hi> perſon to <hi>pre<g ref="char:EOLhyphen"/>tend</hi> to it, is as abſurd as for a <hi>Dwarf</hi> to pretend to <hi>ſtature,</hi> or a <hi>lame</hi> man to <hi>agility.</hi>
+               </p>
+               <p n="5">5. This therefore being a <hi>gracious</hi> diſpoſition, muſt neceſſarily have <hi>God for the Author, or efficient cauſe,</hi>
+                  <note place="margin">Quicquid ſan<g ref="char:EOLhyphen"/>ctum cogita veris Dei munus eſt, Dei inſpiratio, Dei gratia, <hi>Ambr. de Abel &amp; Cain cap. ult.</hi>
+                  </note> which I did not <hi>explicitly</hi> lay down in the de<g ref="char:EOLhyphen"/>finition, as ſuppoſing that it is ſufficiently under<g ref="char:EOLhyphen"/>ſtood in the Genus: <hi>James</hi> 1.17. Every good gift, and every perfect gift is from above, and comes down from the father of lights, <hi>&amp;c. Dicendum quod Deus operator in voluntate &amp; natura ſicut cauſa prima in ſecundis,</hi> Aquin. in Diſtinct. 24. lib. 2.</p>
+               <p n="6">6. The <hi>final cauſe</hi> alſo may here be taken in,<note place="margin">
+                     <p>
+                        <hi>Jer. 32.40.</hi> Paenam ſemper ante oculos ver<g ref="char:EOLhyphen"/>ſari putant, qui peccaverunt. <hi>Cicer. pro mi<g ref="char:EOLhyphen"/>lone.</hi>
+                     </p>
+                     <p>Nudabitur pe<g ref="char:EOLhyphen"/>ctoris mei con<g ref="char:EOLhyphen"/>ſcientia, &amp; aperto corde vi<g ref="char:EOLhyphen"/>debuntur literae peccatorum, <hi>Orig. hom. 12</hi>
+                     </p>
+                  </note> which is to keep us from ſinning againſt him. The conſci<g ref="char:EOLhyphen"/>ence being Gods <hi>Commiſſioner</hi> in the ſoul, to examine what we do, keeping therein a <hi>petty Seſſions,</hi> whereby preparation is made for the great Aſſize. The <hi>ten<g ref="char:EOLhyphen"/>der</hi> conſcience is a <hi>faithful</hi> judge, the <hi>ſcrupulous</hi> con<g ref="char:EOLhyphen"/>ſcience a <hi>fooliſh,</hi> the <hi>wide, ſeared</hi> conſcience a <hi>corrupt bribed</hi> judge. If <hi>natura nil agit fruſtra,</hi> much leſs the God of nature, who hath put this principle of nature into the ſoul of man.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> Of the right hand extream, <hi>viz</hi> a ſcrupulous conſcience.</head>
+               <p>
+                  <hi>SCrupulous</hi> is a <hi>diminutive</hi> of <hi>ſcrupus,</hi>
+                  <note place="margin">Scrupulus di<g ref="char:EOLhyphen"/>minutivum à ſcrupus propriè eſt lapillus bre<g ref="char:EOLhyphen"/>vis &amp; aſper qui in calceo lateus plerun<g ref="char:EOLhyphen"/>que nos laedit, nam preſſus pede ſollicitudinem creat <hi>Altenſt. vocab.</hi>
+                  </note> which is a little <hi>ſharp piece</hi> of a <hi>ſtone;</hi> from whence ſome<g ref="char:EOLhyphen"/>what <hi>forcedly</hi> ſome would have a <hi>ſcrupulous conſcience</hi> ſo called, becauſe as a <hi>ſmall ſtone</hi> in the <hi>ſhoo</hi> cauſes a man to <hi>go</hi> in <hi>pain</hi> ſo a <hi>ſcruple</hi> in the <hi>conſcience</hi> is irk<g ref="char:EOLhyphen"/>ſome to him that <hi>acts</hi> and <hi>ſcruples</hi> at what he acts.</p>
+               <pb n="8" facs="tcp:93742:7"/>
+               <p>
+                  <note place="margin">
+                     <hi>Dubia plus tor<g ref="char:EOLhyphen"/>quent mala,</hi> Sen. Trag. in Agamem.</note>But more probably it ſeems ſo termed from <hi>ſcru<g ref="char:EOLhyphen"/>pulus,</hi> which is one of the <hi>leaſt weights,</hi> becauſe <hi>ſuch</hi> a conſcience ſtumbles at things of the <hi>leaſt weight</hi> or moment, not worth our while to trouble our thoughts with it.</p>
+               <p n="2">2. A <hi>ſcrupulous</hi> conſcience is that which ſticks at <hi>ſmall</hi> and <hi>trivial</hi> things, upon <hi>ſmall</hi> and <hi>trivial</hi> rea<g ref="char:EOLhyphen"/>ſons.</p>
+               <p n="3">
+                  <note place="margin">Res mediae di<g ref="char:EOLhyphen"/>cuntur, quae per ſe ſive ex ſua naturâ ſim<g ref="char:EOLhyphen"/>pliciter aeſti<g ref="char:EOLhyphen"/>matae, nec bonae nec malae ſunt ut eſca, &amp; po<g ref="char:EOLhyphen"/>tus, &amp; ſimiliae, <hi>Beza epiſt. ad peregrinarum in Anglia ec<g ref="char:EOLhyphen"/>cleſiarum fra<g ref="char:EOLhyphen"/>tres.</hi>
+                  </note>3. I call thoſe things <hi>ſmall</hi> and <hi>trivial,</hi> which are in their own nature <hi>meerly indifferent;</hi> or if they have <hi>ſome degree</hi> of <hi>evil</hi> or <hi>good,</hi> are <hi>not diſcovered</hi> ſo to be in a <hi>clear</hi> way to him that ſcruples at them: in which reguard if not in <hi>themſelves, yet as to him</hi> they are <hi>trival.</hi>
+               </p>
+               <p n="4">4. Thoſe <hi>reaſons</hi> or <hi>arguments</hi> I call <hi>trivial,</hi> which in the judgement of <hi>common reaſon (not elouded with paſſion)</hi> together with <hi>common illumination,</hi> have no force or ſtrength in them.</p>
+               <p n="5">5. <hi>Common reaſon</hi> is that which <hi>every</hi> man is in<g ref="char:EOLhyphen"/>dowed with, who is <hi>compos mentis,</hi> and <hi>grown up to years of diſcretion;</hi> and that <hi>common illumination,</hi> which every Chriſtian is endowed with, who may be thought <hi>fit to partake of the Lords Supper,</hi> as to matter of <hi>knowledge.</hi>
+               </p>
+               <p n="6">
+                  <note place="margin">To ſcruple to ſet our foot croſs over a ſtraw in the high way for fear of making the figure of the Croſs. <hi>Eo demùm ve<g ref="char:EOLhyphen"/>niet, ut ſuper tranſverſam (qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d dicitur) feſtucam ince<g ref="char:EOLhyphen"/>dere nefas ducat</hi> Calv. Inſtit. lib. 3. c. 19. Sect. 7.</note>6. <hi>Inſtances</hi> of a ſcrupulous conſcience many may be given; theſe few may ſerve for a taſt. To ſcruple in <hi>extream thirſt</hi> to <hi>drink</hi> in <hi>that cup,</hi> which another hath drunk in to <hi>exceſs;</hi> to ſcruple to go <hi>a mile</hi> to the Church on the <hi>Sabbath,</hi> becauſe there is <hi>labour</hi> in it. To ſtick at <hi>eating fiſh</hi> on a <hi>faſting</hi> day, be<g ref="char:EOLhyphen"/>cauſe <hi>ſome</hi> refuſe to <hi>eate fleſh</hi> on <hi>that</hi> day; to ſtick at <hi>uncovering</hi> the <hi>head</hi> or <hi>bowing</hi> the <hi>knee</hi> to a <hi>ſuperiour,</hi> becauſe we give ſuch worſhip to God.</p>
+               <p>In like manner for a <hi>candidat</hi> or <hi>inceptor</hi> to ſcruple at putting on, ſuppoſe, a <hi>Maſter of Arts Cap, Gown, Hood</hi> or <hi>Habit,</hi> becauſe ſome ſuch like habiliments were in uſe before the Reformation; nor can I think that <hi>many</hi> of the <hi>Presbyterian</hi> way, do <hi>really</hi> ſcruple
+<pb n="9" facs="tcp:93742:7"/> at a <hi>white garment</hi> in Divine Service: for if there were any <hi>colour</hi> of ſin in a <hi>colour</hi> (which in truth there is <hi>not) red</hi> ſhould have <hi>more of</hi> ſin in it then <hi>white,</hi> to which the <hi>deepeſt died ſins</hi> are compared, <hi>Iſa.</hi> 1.18. <hi>Rev</hi> 17.3. Juſtification being compared to the <hi>whiteneſs</hi> of <hi>wool</hi> and <hi>ſnow;</hi> and <hi>ſanctification to linnen pure and white,</hi> Rev. 19.8.</p>
+               <p>Yet the <hi>chief</hi> and <hi>leading</hi> men of that way, did at certain times in the fight of many thou<g ref="char:EOLhyphen"/>ſands, wear <hi>Skarlet Gowns</hi> and <hi>Hoods</hi> in the Univer<g ref="char:EOLhyphen"/>ſities, not only at <hi>Diſputations</hi> and <hi>Congregations,</hi> but at <hi>ſermons, yea</hi> (if I miſtake not) did <hi>preach ad Clerum</hi> in their <hi>ſcarlet Copes,</hi> one of the <hi>graveſt habits</hi> in the world, and much uſed in one of the Univer<g ref="char:EOLhyphen"/>ſities at ſolemn times. Wherein a man may wonder, as why they ſhould not ſcruple as much at ſcarlet as as at white; ſo much more, why they ſhould ſtumble more at white of linnen, then at the white of <hi>miniver</hi> wherewith <hi>that habit</hi> is largely indorſed.</p>
+               <p>Of <hi>School-writers,</hi> none that I know ſpeaks more to the purpoſe then <hi>Antoninus,</hi> from whom ſome Modern Writers ſeem to borrow that little that they have upon that ſubject.<note place="margin">A quibuſdem vocatur erronea conſcientia, ab aliis timor con<g ref="char:EOLhyphen"/>ſc entiae, ab aliis puſillanimitas, <hi>Anton. Sum. part. 1. Tract. 3 c. 10. Sect. 9.</hi>
+                  </note> Firſt he ſhews the <hi>ſeveral names</hi> given to ſcrupuloſity: ſome call it (ſays he) <hi>puſillanimity,</hi> ſome <hi>fear of conſcience,</hi> ſome an <hi>erroneous conſcience;</hi> and gives this definition. <hi>Eſt vacillati<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> quaedam conſurgens cum formidine ex aliquibus conjectu<g ref="char:EOLhyphen"/>ris debilibus &amp; incertis. i. e.</hi> A wavering of mind riſing in us, with fear upon ſome uncertain and weak con<g ref="char:EOLhyphen"/>jectures.</p>
+               <p>He after diſtinguiſhes betwixt <hi>fides, ſcientia, opinio,</hi>
+                  <note place="margin">Secundum Al<g ref="char:EOLhyphen"/>bertum in li<g ref="char:EOLhyphen"/>bro de quatuor c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aevis, differen<g ref="char:EOLhyphen"/>tia eſt inter ſcientiam, ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>dem; opinio<g ref="char:EOLhyphen"/>nem; dubita<g ref="char:EOLhyphen"/>tionem, &amp; ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rupulum ſeu fuſp cionem — Demum ſcrupulus ex levibus con<g ref="char:EOLhyphen"/>jecturis ſeu mediis, &amp; multum debil bas movetur ad unam partium, <hi>ibid.</hi>
+                  </note> 
+                  <hi>dubitatio,</hi> and <hi>ſcrupulus;</hi> and tells us that a doubting conſcience, is <hi>pendulous</hi> betwixt both parts; but a <hi>ſcrupulous faſtens upon one</hi> part drawn by weak rea<g ref="char:EOLhyphen"/>ſons. I ſee but little difference betwixt <hi>vacillatio</hi> and <hi>dubitatio,</hi> nor is it neceſſary either to conceive of
+<pb n="10" facs="tcp:93742:8"/> a dubious conſcience as not faſtning, becauſe when it doth ſo it may be doubting, nor doth a ſcrupulous conſcience ſeem always to cloſe with one part. Having after laid down the <hi>effects</hi> of ſcrupuloſity,<note place="margin">Cauſatur quan<g ref="char:EOLhyphen"/>doque ex com<g ref="char:EOLhyphen"/>plexione ad ti<g ref="char:EOLhyphen"/>morem idonea, <hi>viz.</hi> frigidâ: quandoque ex agritudine ma<g ref="char:EOLhyphen"/>nica, vel me<g ref="char:EOLhyphen"/>lancholicâ— per quam laeditur imaginatio— cauſatur ex tentatione dia<g ref="char:EOLhyphen"/>bolica, &amp; ex ſocietate timi<g ref="char:EOLhyphen"/>dorum.</note> he proceeds to the <hi>cauſes,</hi> viz. <hi>melancholy</hi> hurting the brain; <hi>temptation</hi> from Satan ſtirring up the melan<g ref="char:EOLhyphen"/>choly humors, and he produces <hi>Avicenna</hi> ſo teach<g ref="char:EOLhyphen"/>ing; ſometimes overmuch <hi>faſting</hi> and <hi>watching,</hi> ſometimes the ſociety of ſcrupulous perſons, one be<g ref="char:EOLhyphen"/>ing apt to poſſeſs another with ſcruples.<note n="(a)" place="margin">Non debent ſcrupuloſi durè corr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pi ſed ani<g ref="char:EOLhyphen"/>mari ad depo<g ref="char:EOLhyphen"/>nendum puſil<g ref="char:EOLhyphen"/>lanimitatem &amp; ſcrupalum.</note> Next he proceeds to the <hi>remedies</hi> of it: As 1. That they ſhould not be over harſhly reproved: he ſhould have added<note n="(b)" place="margin">Of which danger our governours are Judges.</note> except the <hi>ſcruple</hi> be <hi>dangerous</hi> to Church or State. 2. That they ſhould be perſwaded to lay it aſide, 3.<note n="(c)" place="margin">Debita ad gratiam Dei praeparatio, Sol<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ta ſacrae Scripturae in dagatio: ora<g ref="char:EOLhyphen"/>tionis devota continuat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o opinionis ali<g ref="char:EOLhyphen"/>cujus tuta ele<g ref="char:EOLhyphen"/>ctio: obedien<g ref="char:EOLhyphen"/>tiae humilis imitatio: ſcru<g ref="char:EOLhyphen"/>pulorum ani<g ref="char:EOLhyphen"/>moſa abjectio, diſcreta praeceptorum interpretatio.</note> Diligently ſearch the Scriptures, <hi>Jam.</hi> 1. <hi>If any man lack wiſdome,</hi> &amp;c. 4. By Godly ſorrow to prepare for the receiving the grace of God. 5. By <hi>ſubjecting</hi> their underſtanding and judg<g ref="char:EOLhyphen"/>ments to their <hi>ſuperiors</hi> in wiſdome and office, <hi>Prov.</hi> 3. <hi>Lean not to thine own underſtanding:</hi> He cites to this purpoſe the words of the <hi>learned Chancellour of</hi> Pa<g ref="char:EOLhyphen"/>ris, <hi>
+                     <g ref="char:V">Ʋ</g>num hoc damus generale documentum,</hi> viz. <hi>facile, credere ſapientium &amp; bonorum judicio, &amp; contra com<g ref="char:EOLhyphen"/>munes eorum ſententias non leviter ſibi formare ſcru<g ref="char:EOLhyphen"/>pulos anxios &amp; timidos.</hi> We give this general inſtru<g ref="char:EOLhyphen"/>ction, eaſily to yield to the judgement of wiſe and good men, and not lightly to frame to our ſelves troubleſome ſcruples againſt their common judge<g ref="char:EOLhyphen"/>ment. And if a ſcrupulous perſon ſhall ſay, <hi>
+                     <g ref="char:V">Ʋ</g>ti<g ref="char:EOLhyphen"/>nam talis eſſet praelatus noſter qualis</hi> Bernardus, <hi>crede<g ref="char:EOLhyphen"/>rem faciliter imperanti, &amp; acquieſcerem conſulenti.</hi> If our Church-governour were ſuch a one as <hi>Bernard,</hi> I would believe eaſily what he ſhould tell me, and reſt in what he ſhall counſel me. He anſwers, <hi>Erras, debes illi obedire non ut homini ſed ut Deo, cujus vices gerit: nam Chriſtus dicit qui vos audit me audit.</hi> Thou erreſt, for thou oughteſt to obey him not as man,
+<pb n="11" facs="tcp:93742:8"/> but as God, in whoſe ſtead he is; thus far <hi>Antonine</hi> Arch-biſhop of <hi>Florence.</hi>
+               </p>
+               <p n="8">8. By what <hi>he</hi> writes, or <hi>others</hi> from him, them<g ref="char:EOLhyphen"/>ſelves, or others, it is manifeſt there <hi>is ſuch a thing</hi> as a ſcrupulous conſcience; that this conſcience is <hi>anxi<g ref="char:EOLhyphen"/>ous,</hi> and no doubt in ſome degree <hi>dubious,</hi> there being little difference betwixt <hi>dubitatio &amp; vacillatio;</hi> that this ſcrupuloſity is a <hi>ſin</hi> in whomſoever it is, as pro<g ref="char:EOLhyphen"/>ceeding from evil cauſes, <hi>viz. ignorance, errour,</hi>
+                  <note place="margin">Say to them that are of a fearful heart be ſtrong, <hi>Iſa.</hi> 35.4.</note> or <hi>in<g ref="char:EOLhyphen"/>ſtability</hi> of mind, or <hi>pride,</hi> ſome affecting and pro<g ref="char:EOLhyphen"/>feſſing ſcrupuloſity. For by this they make that to be ſin, which elſe had been none; <hi>faciunt ſibi peccata, ubi non ſunt peccata,</hi> ſays one, It proceeds alſo from other ill cauſes aforeſaid.</p>
+               <p n="9">9. There is a <hi>kind</hi> or rather <hi>ſhow</hi> of conſcience,<note place="margin">Diſc. de temp.— Conſcientia mala eſt con<g ref="char:EOLhyphen"/>ſcientia per<g ref="char:EOLhyphen"/>verſa, quam habent qui pec<g ref="char:EOLhyphen"/>cata parva ponderunt, ma<g ref="char:EOLhyphen"/>gnanon curant: minima obſer<g ref="char:EOLhyphen"/>vatis, maxima contemnitis. <hi>Aug. quaeſt. evang. lib. 1. qu. 35.</hi>
+                  </note> which ſome call a <hi>perverſe</hi> or prepoſterous conſcience; ſuch was that of the Phariſees <hi>Mat</hi> 23.23. who paid tithes of <hi>mint, annis,</hi> &amp;c. and neglected, <hi>&amp;c.</hi> who ſtrained at a Gnat and ſwallowed a Camel, <hi>Mat.</hi> 23.24. Or to give a more modern, and too well known an inſtance, to be ſo <hi>narrow throated</hi> as to <hi>ſtrain</hi> at the <hi>Churches Prayers,</hi> and to be ſo <hi>wide throated</hi> as to <hi>ſwallow</hi> the <hi>Churches Lands;</hi> to ſcruple to give a <hi>penny</hi> to the building or repairing of a <hi>Church,</hi> a thing laudable, pious, and neceſſary, and to ſtick at no coſt towards the dethroning and deſtroying of their Soveraign, a thing unnatural and impious. But this being but an <hi>hypocritical pretenſe</hi> of conſcience, cannot be referred to this head, which treats of <hi>real</hi> ſcrupuloſity.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="12" facs="tcp:93742:9"/>
+               <head>CHAP. IV. Of the left hand extream, <hi>viz.</hi> a wide, looſe, and ſeared conſcience.</head>
+               <p n="1">
+                  <note place="margin">Conſcientia di<g ref="char:EOLhyphen"/>latata quam habent illi qui non ponderant craſſiora pecca<g ref="char:EOLhyphen"/>ta— &amp; de com<g ref="char:EOLhyphen"/>munibus non curant. <hi>Diſc. de temp. Ser. 9.</hi>
+                  </note>1. A <hi>Wide</hi> or <hi>looſe</hi> Conſcience, is that which is not tenderly ſenſible of having done, nor ten<g ref="char:EOLhyphen"/>derly wary of doing what is clearly and manifeſtly evil, out of an inward principle.</p>
+               <p n="2">2. If a man forbear evil to be done, or is troubled for evil done, only becauſe it is <hi>puniſht</hi> or <hi>puniſhable</hi> by <hi>humane laws,</hi> this is not tenderneſs. And there<g ref="char:EOLhyphen"/>fore looſneſs of conſcience is chiefly ſeen and diſ<g ref="char:EOLhyphen"/>cern'd in the commiſſion and admiſſion of ſuch ſins,<note place="margin">
+                     <hi>Rom.</hi> 13. wrath and conſcience are diſtin<g ref="char:EOLhyphen"/>guiſht.</note> without remorſe or regard, which conſcience and the fear of God ſhould reſtrain, and are not puniſht by humane laws, or if ſo, do not eaſily or ſpeedily come to humane cognizance.</p>
+               <p n="3">3. Whence it follows, that looſneſs of conſcience is moſt diſcover'd in ſecret ſins, and conſequently more diſcernible to a mans ſelf then to another, till it break out into open enormities without open ſigns of a wounded or troubled ſoul.</p>
+               <p n="4">4. That which ſome Divines call a <hi>ſleepy</hi> or <hi>dull</hi> conſcience; is but a farther degree of a looſe conſci<g ref="char:EOLhyphen"/>ence; for when men have <hi>inured</hi> themſelves to ſin againſt conſcience, this<note n="(a)" place="margin">Si autem vince<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e &amp; impe<g ref="char:EOLhyphen"/>rare conſueve<g ref="char:EOLhyphen"/>runt laborioſa d fficultate ſu<g ref="char:EOLhyphen"/>perantur. <hi>Aug. de civ. Dei lib. 21. c. 16.</hi>
+                  </note> cuſtome takes away quickneſs of ſenſe. Yet is not a ſtupified conſcience without ſome degree of <hi>feeling</hi> when God awakens it either with a <hi>powerful word</hi> Act. 2.37. they were <hi>pricked</hi> in their <hi>heart,</hi> and ſaid men and brethren what ſhall we do? or with a <hi>powerful work,</hi> as in <hi>Pharaohs</hi> caſe <hi>Exod.</hi> 9.27. I and my people are ſinful. For as ſuch who are <hi>Lethargical</hi> are not eaſily awakened, but by ſome <hi>great noiſe,</hi> ſo neither is a ſluggiſh conſcience without a powerful word or work of God.</p>
+               <p n="5">
+                  <pb n="13" facs="tcp:93742:9"/>5. The <hi>ſeared</hi> conſcience ſeems to be the higheſt degree of a looſe or wide conſcience, <hi>Eph.</hi> 4.19. who being paſt feeling, <hi>&amp;c.</hi> 1 <hi>Tim.</hi> 4.2. having their con<g ref="char:EOLhyphen"/>ſcience ſeared with an hot iron. For as that which hath been <hi>ſeared</hi> feels nothing, ſo neither doth a ſear<g ref="char:EOLhyphen"/>ed conſcience, till it feels hell fire; and it is commonly the effect of an hypocritical profeſſion of the faith, or of a wicked departure from the faith.</p>
+               <p n="6">6. The <hi>cauterized</hi> conſcience as it is of the <hi>ſame ſpecies</hi> with a wide and looſe conſcience may be called a <hi>degree</hi> of it, yea the higheſt degree:<note place="margin">Cauterium eſt corruptio in carne per g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em, ex qua egreditur con<g ref="char:EOLhyphen"/>tinua putredo. <hi>Aquinas in 1 Tim. 4.</hi>
+                  </note> as it <hi>proceeds from</hi> looſneſs it may be an <hi>effect</hi> of it; as it increaſes looſneſs and widens the conſcience, it may be a <hi>cauſe</hi> of it.</p>
+               <p n="7">7. Of all the judgments of God in this life, it is the <hi>greateſt</hi> to be given up to ſuch a ſearedneſs or re<g ref="char:EOLhyphen"/>probate ſenſe. For however Deſperation continued in, cuts off from all mercy, yet is a ſeared conſcience no leſs deſperate, keeping off a ſence of ſin, and therein any due ſenſe of mercy. From which miſe<g ref="char:EOLhyphen"/>rable eſtate the Lord deliver us.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. Of the difference of a tender conſcience from other graces neareſt and likeſt to it.</head>
+               <p n="1">1. IT thus differs from the <hi>fear</hi> of <hi>God,</hi> that this pro<g ref="char:EOLhyphen"/>perly reſpects the<note n="(m)" place="margin">Job. <hi>1.1. fear'd God and eſchewed evil.</hi> Qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hanc habet omnem odit iniquitatem— per hunc timorem Dei univerſa deſerimus, mundo abrenunciamus, noſque ipſos (ſicut Dominus ait) abnegamus nobis. <hi>Bern. de don. ſp. ſancti ſer. 3. c. 1.</hi>
+                  </note> 
+                  <hi>future</hi> Jer. 32.40. I will put my <hi>fear</hi> into their heart, that they <hi>ſhall not de<g ref="char:EOLhyphen"/>part</hi> from me; but tenderneſs of conſcience reſpects as well the time <hi>paſt</hi> as the <hi>future.</hi> The <hi>fear</hi> of
+<pb n="14" facs="tcp:93742:10"/> God ſeems to be the <hi>cauſe</hi> of a tender conſcience,<note place="margin">
+                     <hi>Eccleſiaſtic.</hi> 1.21. The fear of the Lord drives away ſin.</note> 
+                  <hi>Gen.</hi> 39.9. how can I do this great wickedneſs and ſin againſt God?</p>
+               <p n="2">2. It differs from <hi>penitential contrition,</hi> as this re<g ref="char:EOLhyphen"/>ſpects actions <hi>paſt,</hi> but <hi>tenderneſs</hi> things alſo <hi>future;</hi> and (as in the former) contrition ſeems to be ſome <hi>cauſe</hi> of tenderneſs,<note place="margin">2 <hi>Cor.</hi> 7.11. that ye ſor<g ref="char:EOLhyphen"/>rowed after a godly ſort what careful<g ref="char:EOLhyphen"/>neſs it wrought in you.</note> the heart never being truly tender, till it be a broken and a contrite heart.</p>
+               <p n="3">3. It differs from <hi>vigilancy,</hi> this being principally exerciſed about our <hi>temptations,</hi> and ſuch other dan<g ref="char:EOLhyphen"/>gers, but tenderneſs about the good or evil of our actions.</p>
+               <p n="4">4. It differs not only from a ſcrupulous conſcience, but from a dubious; this <hi>haeſitating</hi> betwixt aſſent and diſſent, that firmly bent againſt any manifeſt evil.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. Of the quick ſenſe of a tender conſci<g ref="char:EOLhyphen"/>ence, being the <hi>formalis ratio</hi> of it.</head>
+               <p n="1">
+                  <note place="margin">
+                     <hi>A diſtinction ſomewhat like is in</hi> Ariſtot. lib. <hi>7.</hi> Ethic. c. <hi>10.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Solum dicitur practicus, dum ad factibilia &amp; agibilia inferiora con<g ref="char:EOLhyphen"/>vertitur. <hi>Ger<g ref="char:EOLhyphen"/>ſon.</hi>
+                  </note>1. THis ſenſibility is a <hi>quick motion</hi> of the practi<g ref="char:EOLhyphen"/>cal underſtanding in a <hi>ſuddain cheek</hi> of ſome<g ref="char:EOLhyphen"/>thing done, or a <hi>ſuddain ſtop</hi> at ſomething to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> done.</p>
+               <p n="2">2. The <hi>practical underſtanding</hi> is a power of the ſoul, which apprehends things <hi>in ordine ad opus,</hi> in order to ſome operation, as the <hi>ſpeculative</hi> under<g ref="char:EOLhyphen"/>ſtanding <hi>in ordine ad ſcientiam,</hi> in order to ſome<g ref="char:EOLhyphen"/>thing to be known. For example, the ſpeculative underſtanding conſiders, of hearbs, as having ſuch virtues and operations in them, the practical, whe<g ref="char:EOLhyphen"/>ther I ſhould for ſuch purpoſes <hi>uſe</hi> ſuch ſimples, and in what manner to uſe them. The theorical intel<g ref="char:EOLhyphen"/>lect
+<pb n="15" facs="tcp:93742:10"/> conſiders of marriage as it is the ordinance of God, as a great myſtery, as a means of the propaga<g ref="char:EOLhyphen"/>tion of mankind: the practical intellect, conſiders of entring or refuſing ſuch or ſuch a marriage. A Judge upon the Bench makes uſe of his <hi>theorick</hi> intellect, when he <hi>diſcourſes</hi> of the Laws and Statutes what they allow or forbid; he makes uſe of the <hi>practick</hi> power, when he examines and condemns malefactors by the law.</p>
+               <p n="3">3. Whence it is a <hi>rule</hi> in Philoſophy, <hi>Intellectus theo<g ref="char:EOLhyphen"/>ricus conquieſcit in notitia principiorum, intellectus pra<g ref="char:EOLhyphen"/>cticus in notitia ſingularium.</hi> Upon which is ground<g ref="char:EOLhyphen"/>ed the diſtinction of a<note n="(a)" place="margin">Vita hu<g ref="char:EOLhyphen"/>mana in acti<g ref="char:EOLhyphen"/>vam &amp; con<g ref="char:EOLhyphen"/>templativam dividitur, quae quidem atten<g ref="char:EOLhyphen"/>ditur ſecundum intellectum. Intellectus au<g ref="char:EOLhyphen"/>tem d viditur per activum &amp; contemplati<g ref="char:EOLhyphen"/>vum. <hi>Aquin. 22. qu. 179. art. 2.</hi>
+                  </note> 
+                  <hi>contemplative</hi> and an <hi>active</hi> life.</p>
+               <p n="4">4. The quick motion of this <hi>practical</hi> underſtand<g ref="char:EOLhyphen"/>ing is imperated by the <hi>will truly ſanctified,</hi> which lays a general charge upon all the faculties, above all things what ever they do to keep all ſin out of the ſoul.</p>
+               <q>
+                  <l>— Cum magna horreas</l>
+                  <l>Quoe poſſe fieri non putes metuas tamen.</l>
+                  <l>
+                     <hi>Senec. trag. in OEdip.</hi>
+                  </l>
+               </q>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. Of the immediate object of a tender Conſcience.</head>
+               <p n="1">1. THe <hi>object</hi> of this ſenſibility or tenderneſs, is <hi>about</hi>
+                  <note n="(b)" place="margin">Conſcientia eſt actus quo ſcientiam no<g ref="char:EOLhyphen"/>ſtram ad ea quae agimus ap<g ref="char:EOLhyphen"/>plicamus. <hi>Aqu. 1. part. q. 79. art. 13.</hi>
+                  </note> 
+                  <hi>doing</hi> or <hi>having done</hi> any thing which is <hi>cleerly evil,</hi> and conſequently of omitting or having omitted any thing which is truly good.</p>
+               <p n="2">2. The <hi>abſolute</hi> and <hi>primary</hi> rule of evil and good to a tender conſcience, is the <hi>expreſs</hi> and <hi>clear</hi> Word of God rightly underſtood; for every thing in ſome
+<pb n="16" facs="tcp:93742:11"/> particular places forbidden or commanded is not the rule.</p>
+               <p n="3">3, I call Gods Word the <hi>primary</hi> and <hi>abſolute</hi> rule, becauſe other rules there are which bind the conſci<g ref="char:EOLhyphen"/>ence, but they do it by the <hi>virtue</hi> of the <hi>abſolute</hi> rule.</p>
+               <p n="4">4. Thoſe <hi>ſecondary</hi> rules of conſcience, as ſome Divines both lately and formerly have noted, are 1. The Laws, Orders, and Mandates of our Superi<g ref="char:EOLhyphen"/>ours. 2. Our own ſpontaneous <hi>vows</hi> and <hi>promiſes.</hi> 3. The conſideration of <hi>offence</hi> towards a weak Bro<g ref="char:EOLhyphen"/>ther, which in ſome caſes is a direction to conſci<g ref="char:EOLhyphen"/>ence.</p>
+               <p n="5">5. Whereas the late Reverend and Judicious Bi<g ref="char:EOLhyphen"/>ſhop <hi>Sanderſon</hi> (who doth not deal in his Caſes upon this my ſubject ſave only upon the rule of conſci<g ref="char:EOLhyphen"/>ence in one place) aſſerts that the <hi>Scripture</hi> is not the <hi>adaequate rule</hi> of conſcience, but the <hi>will</hi> of God in what way ſoever revealed to men; that I may not ſeem to leave out any thing neceſſary to the defini<g ref="char:EOLhyphen"/>tion of the rule, nor to thwart what that worthy Caſuiſt hath written, I conceive I have both fully and fitly comprized all under thoſe words, <hi>The Word of God rightly underſtood.</hi> For ſpeaking only of the tender conſcience of a <hi>Chriſtian,</hi> and not a mere <hi>na<g ref="char:EOLhyphen"/>tural</hi> man, I have no occaſion to take in the<note n="(a)" place="margin">Lex vetus diſtinguitur a lege naturae non tanquam ab ea omnino aliena, ſed tanquam ei aliquid ſuper. addens. Sicut enim gratia praeſuppon<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t naturam, ita oportet quod lex div<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>na praeſup<g ref="char:EOLhyphen"/>ponat legem naturalem. <hi>Aquin. 12. qu. 99. art. 2.</hi>
+                  </note> law of nature by it ſelf, as one way of revelation; there being nothing commanded or prohibited in the <hi>law</hi> of <hi>nature,</hi> which is not more <hi>explicitely</hi> and <hi>excel<g ref="char:EOLhyphen"/>lently</hi> to be found in the <hi>Scripture,</hi> which doth <hi>emi<g ref="char:EOLhyphen"/>nently</hi> contain in it the law of nature. And whereas extraordinary, particular, private revelations, are <hi>not</hi> to be <hi>expreſſed,</hi> but<note n="(b)" place="margin">Non dicat ideo verum eſſe — quia ille frater noſter, vel illa ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ror noſtra tale viſum vigil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns aut dormiens ſomniavit. <hi>Aug. de unitate eccleſiae.</hi>
+                  </note> 
+                  <hi>ſuſpected</hi> when pretend<g ref="char:EOLhyphen"/>ed, I make them no certain part of the rule. But as to the way of revelation, which is by inſtructions and conſequences drawn out of Scripture, I have
+<pb n="17" facs="tcp:93742:11"/> couched it under theſe words: <hi>Rightly underſtood.</hi> For he that rightly underſtands a Text, knows the ſcope of it, and he that knows what that Text truly and properly teaches, by what means ſoever.</p>
+               <p n="6">6. One of the <hi>ſecondary</hi> rules of evil and good to the conſcience, is the <hi>Laws</hi> and <hi>Mandates</hi> of our Ru<g ref="char:EOLhyphen"/>lers and Governours; theſe<note n="(a)" place="margin">Omnis le<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſlativa po<g ref="char:EOLhyphen"/>teſtas deſcendit a poteſtate ſu<g ref="char:EOLhyphen"/>premâ <hi>i. e.</hi> di<g ref="char:EOLhyphen"/>vina — quic<g ref="char:EOLhyphen"/>quid igitur committitur contra legem humanamidem etiam fit contra legem ei. — Qui hoc etiam praecipit ut illi poteſtati obedi<g ref="char:EOLhyphen"/>atur. —Non enim fingi po<g ref="char:EOLhyphen"/>teſt prae<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ipiendi poteſtas ſine ob<g ref="char:EOLhyphen"/>ligatione obe<g ref="char:EOLhyphen"/>diendi. <hi>Tit. 3.1. Eſtius in Sentent. lib. 2. diſt. 36.</hi>
+                  </note> bind by the power and virtue of the primary rule, 1 <hi>Pet.</hi> 2.13. Sub<g ref="char:EOLhyphen"/>mit your ſelves to every ordinance of man, for the Lords ſake: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> to every <hi>humane crea<g ref="char:EOLhyphen"/>ture,</hi> as it ſounds in the <hi>Greek. Eſtius</hi> thus, to every man being Gods creature, as <hi>Mark.</hi> 6. preach the Go<g ref="char:EOLhyphen"/>ſpel to every creature, <hi>i. e.</hi> to every man; yet as there is a <hi>reſtriction</hi> there to be underſtood, not to infants or diſtracted perſons, ſo here is a reſtriction; for we are not bound to ſubmit to every man, but to ſuch as are in authority. But <hi>Heinſius</hi> a Proteſtant and a learned Critick, tells us, That it is very properly rendered to every <hi>humane ordinance.</hi> For the <hi>Helle<g ref="char:EOLhyphen"/>niſts Eccleſiaſticus</hi> 38.12. write thus; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Give place to the Phyſician, for God hath ordain'd him. Though we uſe not the <hi>Apocryphal Books</hi> as a <hi>ground</hi> of <hi>faith,</hi> yet there are many excellent things in them; and beſides the Greek Apocrypha gives light to divers <hi>dark places</hi> in the <hi>New Teſtament,</hi> being a kind of <hi>Hebraizing Greek;</hi> and therefore to diſtinguiſh it from other Greek, called by <hi>Joſ. Scaliger,</hi> and ſome other Criticks, the <hi>Helleniſts Greek,</hi> as is alſo the LXX. of the Canonical Books in the Old Teſtament. Nor ſhall a man ever come to the true meaning of ſome of the darkeſt places of the New Teſtament, that is not well verſed in the <hi>Helleniſts.</hi> Another Text is in <hi>Rom.</hi> 13.5. Wherefore ye muſt needs be ſubject, not only for wrath, but for conſcience ſake.</p>
+               <p n="7">7. They therefore that are ſtill <hi>oppoſing</hi> theſe <hi>ſub<g ref="char:EOLhyphen"/>ordinate</hi> rules one to another, ſubmit to neither; for
+<pb n="18" facs="tcp:93742:12"/> oppoſition is not to be made,<note place="margin">Vbi hoc jubet pater quod con<g ref="char:EOLhyphen"/>tra Deum non ſit, ſic audien<g ref="char:EOLhyphen"/>dus eſt quomodo Deus quia obe<g ref="char:EOLhyphen"/>dire patri juſſit Deus. <hi>Aug. conc. 1. in Pſal. 70.</hi>
+                  </note> but when man com<g ref="char:EOLhyphen"/>mands or ordains ſomething <hi>contrary</hi> to the ordinance and commandments of God, and then the rule holds <hi>Act.</hi> 5.19. we ought to obey God rather then man: Or when men <hi>thruſt out</hi> Gods laws, and <hi>place</hi> their own in their room, as <hi>Mat.</hi> 15.9. They taught do<g ref="char:EOLhyphen"/>ctrines, the commandments of men, that is, they ſhut out the <hi>fifth Commandement,</hi> and brought in their <hi>Corban</hi> into the room of it, <hi>v.</hi> 4, 5, 6. Or laſtly, when they ſhall bring in any thing as of God directly and immediately which is not,<note place="margin">Quicquid vice Dei Praelatus praecipit, quod non ſit certum diſplicere Deo, haud ſecus ac<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ipiendum, quam ſi praeci<g ref="char:EOLhyphen"/>piat ipſe Deus. <hi>Bern. de praecept. &amp; diſp. c. 12.</hi>
+                  </note> or as an eſſential part to his worſhip which he hath not preſcribed. In which ſenſe <hi>Tertullian</hi> is to be underſtood, <hi>Nobis ni<g ref="char:EOLhyphen"/>hil ex noſtro arbitrio indulgere licet, ſed nec eligere quod aliquis ex arbitrio ſuo induxerit.</hi>
+               </p>
+               <p n="8">
+                  <note place="margin">Ad ſecundum praeceptum (ve<g ref="char:EOLhyphen"/>rius ad terti<g ref="char:EOLhyphen"/>um) reducitur omnis v olatio voti. <hi>Eſtius lib. 3. diſt. 39.</hi>
+                  </note>8. The <hi>ſecond ſecondary</hi> rule of evil or good, is a <hi>lawful vow.</hi> This alſo binds by virtue of the abſo<g ref="char:EOLhyphen"/>lute and primary rule. <hi>Deut.</hi> 23.21. When thou ſhalt vow a vow to the Lord thy God, thou ſhalt not ſlack to pay it. See <hi>Pſal.</hi> 76.11. <hi>Eccleſ.</hi> 5.4, 5. <hi>Act.</hi> 5.4.</p>
+               <p n="9">9. The <hi>third ſecondary</hi> rule is in caſe of offence, but it is, when the things are ſuch as neither Gods Law nor Mans tyes us to: we having liberty to leave or uſe them 1 <hi>Cor.</hi> 8.9. But take heed this <hi>li<g ref="char:EOLhyphen"/>berty</hi> of yours become not a ſtumbling block to them that are weak.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. Of the clearneſs of the primary rule.</head>
+               <p n="1">1. THis rule I have aſſerted in the former Chapter to be the <hi>expreſs</hi> and <hi>clear</hi> Word of God.</p>
+               <p n="2">2. Thoſe portions of Gods Word I call <hi>expreſs</hi> and
+<pb n="19" facs="tcp:93742:12"/> 
+                  <hi>clear,</hi> which if they concern us that are Chriſtians, are not obnoxious to <hi>divers interpretations or criticiſms</hi> invalidating any certain ſenſe.</p>
+               <p n="3">3. Therefore where a text admits of <hi>divers proba<g ref="char:EOLhyphen"/>ble</hi> interpretations, or is by critical obſervation car<g ref="char:EOLhyphen"/>ried beſide the vulgar ſenſe, there can be no rule of good or evil to the conſcience.</p>
+               <p n="4">4. The reaſon is, becauſe that which becomes the true object of the ſpeculative intellect, which ſearches what is true or falſe, cannot be the object nor rule of the practical intellect, till the ſpeculative hath re<g ref="char:EOLhyphen"/>ſolved it.</p>
+               <p n="5">5. Not that I think the <hi>maxime</hi> of the Canon-law applicable to this: <hi>Quae in teſtamento ita ſcripta ſunt ut intelligi non poſſunt, perinde ſunt ac ſi ſcripta non eſſent;</hi> becauſe, however it be in mans Teſtament, in Gods Teſtaments, it is Scripture ſtill, though the meaning be not certainly known.</p>
+               <p n="6">6. In places therefore <hi>dubious</hi> and <hi>difficult,</hi> it is not good ſenſe to ſay, my <hi>conſcience tells</hi> me this or that is the ſenſe of ſuch a Text, becauſe conſcience is ma<g ref="char:EOLhyphen"/>nifeſtly ſeated in the practical intellect, whoſe work is not to find out true or falſe in any matter.</p>
+               <p n="7">7. Yet where the<note n="(a)" place="margin">But the houſe of Iſrael will not heark<g ref="char:EOLhyphen"/>en unto thee, for they will not hearken to me, <hi>Ezek.</hi> 3.7.</note> 
+                  <hi>Church</hi> hath authoritatively given the interpretation of dubious places, a tender conſcience ſhould be tender of rejecting it, as both <hi>charitably</hi> and <hi>dutifully</hi> hoping that the Church would not give an interpretation, either contrary to other expreſs Scriptures, the Analogy of faith, or to the conſent of the Univerſal Church in the moſt pure and antient times of it.</p>
+               <p n="8">8. Nor is it leſs then <hi>equity,</hi> that if the people truſt the Church firſt in <hi>ſetting out</hi> the <hi>bounds</hi> of <hi>Ca<g ref="char:EOLhyphen"/>nonical Scripture</hi> againſt ſuch as would<note n="(b)" place="margin">The Ro<g ref="char:EOLhyphen"/>maniſts.</note> adde or<note n="(c)" place="margin">Si &amp; Pe<g ref="char:EOLhyphen"/>trus accedat— locus ex epiſtola ejus priore, quae ſola genuina eſt, <hi>&amp;c.</hi> Petrus quoque vetus auctor epiſtolae poſterioris quae ſub Petri nomine jam olim vulgata eſt <hi>&amp;c. Walo Meſſalinus (alias Salmaſius) de Epiſcopis, &amp; Presbyteris, and others be<g ref="char:EOLhyphen"/>ſides him.</hi>
+                  </note> ſubſtract: Secondly, in <hi>tranſlating</hi> it againſt ſuch
+<pb n="20" facs="tcp:93742:13"/> as would <hi>lock</hi> it up, they ſhould alſo chearfully and gratefully receive the Churches interpretation, it be<g ref="char:EOLhyphen"/>ing <hi>not imaginable</hi> to an <hi>ingenuous</hi> and <hi>charitable</hi> man, that they who have been faithful and induſtrious in <hi>fixing the Canon</hi> and tranſlating it, would be careleſs and deceitful in the <hi>interpretation.</hi>
+               </p>
+               <p n="9">9. I do therefore (but with humble ſubmiſſion to the judgment of the Church) affirm that a tender conſcience being guided in her rule by the <hi>Churches tranſlation,</hi> may alſo be guided by <hi>her interpretation.</hi>
+               </p>
+               <p n="10">10. But beſides <hi>ambiguous</hi> places there is <hi>clear</hi> Scri<g ref="char:EOLhyphen"/>pture enough to ſhew us what is good and what is evil. <hi>Deut</hi> 30.15. See I have ſet before thee this day life and good, and death and evil. But more pre<g ref="char:EOLhyphen"/>gnantly <hi>Mic.</hi> 6.8. He hath ſhewed thee, O man! what is good, <hi>&amp;c.</hi>
+               </p>
+               <p n="11">11 Yet may <hi>clear</hi> places be <hi>obſcured</hi> by <hi>unſound in<g ref="char:EOLhyphen"/>terpretations,</hi> and <hi>by none</hi> more then by over <hi>lax</hi> and <hi>large ſynechdoches.</hi> For of all places, the moral law is moſt clear, yet are the ſynechdoches ſome make, ſo large, that a man knows not when he breaks them or keeps them.</p>
+               <p n="12">12. Above the reſt of the moral law, none ſeems more clog'd with the trope aforeſaid, then <hi>the ſe<g ref="char:EOLhyphen"/>cond Commandment.</hi> So that as they are guilty of one groſs extream, who <hi>expunge</hi> it out of the decalogue, ſo they in ſome degree of another, that have over<g ref="char:EOLhyphen"/>much inlarged it. For if it muſt be extended to all <hi>inventions of men,</hi> whereby they cloath the worſhip of God with <hi>fitting circumſtantials,</hi> we cannot ſtir a foot, but we muſt ſtumble over ſome graven image. Then is the tolling a Bell, the turning a Glaſs, the tuning a Pſalm, or almoſt any thing elſe, not expreſ<g ref="char:EOLhyphen"/>ly commanded, a graven image. Then is every Chri<g ref="char:EOLhyphen"/>ſtian Congregation in the world a Congregation of Idolaters, which is groſly abſurd.</p>
+               <p n="13">13. By what therefore hath been ſaid in this and the former Chapters it is manifeſt, that the ob<g ref="char:EOLhyphen"/>ject
+<pb n="21" facs="tcp:93742:13"/> of the tender conſcience is <hi>clear</hi> or <hi>manifeſt</hi> evil or good.</p>
+               <p n="14">14. Therefore <hi>bare reſemblances</hi> of evil, are not the object of tenderneſs. Nor is that place 1 <hi>Theſ.</hi> 5.22. Abſtain from every appearance of evil, ſo to be underſtood. Becauſe if that were the ſenſe, mans life ſhould be a <hi>perpetual thraldome;</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> alſo is as well kind as appearance: and <hi>Eſtius</hi> ſays well, it is the ſame with that <hi>Ch.</hi> 4.12. to walk honeſtly towards them without: many good things carry a <hi>reſemblance</hi> of evil, as diligence in callings of covetuouſneſs; cheerfulneſs of levity; reſervedneſs of anger, lawful recreations of voluptuouſneſs; and commonly all vertues and graces of ſome one extream.</p>
+               <p n="15">15. The <hi>reſtrictions</hi> are theſe. 1. It muſt be <hi>clear<g ref="char:EOLhyphen"/>ly</hi> evil of which it is an <hi>appearance.</hi> 2. Such an ap<g ref="char:EOLhyphen"/>pearance it muſt be as doth neceſſarily <hi>inferre</hi> us <hi>guil<g ref="char:EOLhyphen"/>ty,</hi> or that we <hi>love</hi> or like that evil 3. Such an ap<g ref="char:EOLhyphen"/>pearance as we have <hi>freedome</hi> to forbear.</p>
+               <p n="16">16.<note place="margin">Yet is the tender Conſci<g ref="char:EOLhyphen"/>ence tender of another mans conſcience, 1 <hi>Cor.</hi> 10.29. conſcience I ſay not thine own, but of the others. <hi>Vid. pag. ult. Gal.</hi> 6.4. But let every man prove his own work.</note> There is but one conſideration more in the object, <hi>viz.</hi> that a tender conſcience is converſant about the evil and good of our <hi>own</hi> actions, and not of other mens; for however grief may ariſe in our hearts for the miſdoings of others, yet can it not be called trouble of conſcience, but ſorrow of mind.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. Of the ſubject of a tender conſcience.</head>
+               <p>THe <hi>remote</hi> ſubject is (as hath been ſhewed) the practical intellect in the ſoul and the will, but more approximately, a regenerate and ſanctified ſoul. For if the fear of God and true ſoftneſs of heart, are
+<pb n="22" facs="tcp:93742:14"/> only ſubjected in a regenerated ſoul, ſo likewiſe is this.</p>
+               <p n="2">2. Tenderneſs therefore is not only the <hi>adjunct</hi> of ſuch a ſoul,<note place="margin">
+                     <hi>Tit.</hi> 1.15. But to them that are defiled and unbelie<g ref="char:EOLhyphen"/>ving is no<g ref="char:EOLhyphen"/>thing pure, but even their mind and con<g ref="char:EOLhyphen"/>ſcience is de<g ref="char:EOLhyphen"/>filed.</note> but the <hi>adaequate</hi> adjunct of it, and there<g ref="char:EOLhyphen"/>fore is <hi>reciprocated</hi> with the ſubject, ſo that there is no regenerate man without a tender conſcience, no tender conſcience but in a regenerate man, as it is a gracious diſpoſition.</p>
+               <p n="3">3. Hence it is as <hi>ridiculous</hi> for a wicked man as a theif, a perjured perſon, or traitor, to pretend to tenderneſs of conſcience, as for a <hi>beaſt</hi> to pretend to <hi>rationality.</hi> If two thieves ſhould rob a man, and one perſwade to murder him, and the other refuſe and hinder, it is not tenderneſs of conſcience pro<g ref="char:EOLhyphen"/>perly in him, but either ſome degree of <hi>good na<g ref="char:EOLhyphen"/>ture,</hi> or <hi>Gods reſtraining</hi> grace, or <hi>fear</hi> of a divine hand of puniſhment, that frequently finds out mur<g ref="char:EOLhyphen"/>derers. Conſcience is as truly tender of <hi>theft,</hi> as of <hi>murder, Gen.</hi> 37.22. when <hi>Reuben</hi> ſaid, ſhed no blood, it cannot be thought ſuch a tenderneſs in him, who was not afraid to defile his fathers bed.</p>
+               <p n="4">4. To conclude this, the ſanctified ſoul in regard of this adjunct, is not only <hi>ſubjectum recipiens ad ſe,</hi> but <hi>in ſe.</hi> Tenderneſs hath an <hi>inherence</hi> in ſuch a ſoul, and cannot be ſever'd from it, how ever at ſome times it may be more <hi>dull</hi> then at other.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X. Of the adjuncts of a tender Conſcience.</head>
+               <p>THe adjuncts, properties, or the effects of this holy diſpoſition will ſerve for the marks or cha<g ref="char:EOLhyphen"/>racters of it by which it may in ſome ſort be diſco<g ref="char:EOLhyphen"/>vered where it is.</p>
+               <p n="1">
+                  <pb n="23" facs="tcp:93742:14"/>1. A <hi>proportionality</hi> to the <hi>object.</hi> The <hi>greater</hi> the evil, the <hi>more</hi> tender the conſcience: Thoſe evils eſpecially it moſt checks us for and keeps us from, which are, 1. Moſt <hi>diſhonourable</hi> to God and his Go<g ref="char:EOLhyphen"/>ſpel. 2. Such as <hi>moſt wound</hi> the conſcience. Thoſe that moſt diſhonour God and his Goſpel, are ſins againſt the <hi>Laws</hi> of <hi>Nature, Nations,</hi> and <hi>Humane Society,</hi> ſuch as are breach of our faith and promiſes,<note place="margin">And after that King <hi>Nebu<g ref="char:EOLhyphen"/>chadnezzar</hi> had made him to ſwear by the name of the Lord he forſwore him<g ref="char:EOLhyphen"/>ſelf and re<g ref="char:EOLhyphen"/>belled. 1 <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſdr.</hi> 1.48.</note> (eſpecially when it is publick) perjuries, and above all, <hi>treaſons.</hi> In the late times, when men ſaw no puniſh<g ref="char:EOLhyphen"/>ment, but rather incouragement to all diſloyalty, con<g ref="char:EOLhyphen"/>ſcience ſhould have reſtrained them, for the actions of thoſe times were diſhonourable to Chriſt in the ſight of unbelievers, to the reformed religion in the ſight of other profeſſions, to the Engliſh Nation in the ſight of all Nations. 2. The ſins that moſt wound the conſcience are breach of vows, oathes, when lawful for the matter, and impoſed by lawful authority, ſuch as the oaths of Allegeance and Su<g ref="char:EOLhyphen"/>premacy were, but the <hi>Covenant was not.</hi>
+               </p>
+               <p n="2">2. Tenderneſs is ever joyned with a <hi>propenſity</hi> to Gods publick worſhip.<note n="(a)" place="margin">Chriſtiana libertas non eſt vaga &amp; effrae<g ref="char:EOLhyphen"/>nis licentia qua qui quid lubet, pro no<g ref="char:EOLhyphen"/>ſtro arb trio agamus aut omittamus— ſed eſt l beratio à maledictione legis, &amp; a jugo legalium ceremoniarum per Chriſtum. <hi>Beza Epiſt. 24.</hi>
+                  </note> I never in all my life knew a conſciencious perſon, but did love Gods worſhip in his houſe, and the more conſciencious the more conſtant in it and to it.<note n="(b)" place="margin">Is abutitur Chriſtianae libertatis beneficio, vel potius adhuc venundatus eſt ſub peccato, qui vel ſuis magiſtratibus ve praepoſitis ſponte non paret in Domino. <hi>Thed. Beza. ibid.</hi>
+                  </note> They that can ſit at home without neceſſity <hi>whole</hi> Lords days, nay <hi>many months</hi> together, ſhew from the <hi>coldneſs</hi> of their affections to their God that their conſciences are not tender but <hi>benummed,</hi> or rather ſeared.</p>
+               <p>It is no argument,<note place="margin">Jactabi muſne libertatem con<g ref="char:EOLhyphen"/>ſcientiis permittendam eſſe? minimè ut haec quidem libertas intelligitur, i. e. quo quiſque modo volet eum colat. Eſt enim hoc mere d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>abelicum dogma, ſinendum eſſe unumquemque ut ſi volet pereat. <hi>Beza epiſt.</hi>
+                  </note> but a <hi>pitiful ſhift</hi> in too many to cover idleneſs, pride, diſdain of the miniſterial
+<pb n="24" facs="tcp:93742:15"/> office, and perhaps ſomething worſe, to ſay, I cannot come to Church: I underſtand not the meaning of ſuch a <hi>ceremony,</hi> I approve not of ſuch <hi>prayers,</hi> I like not the <hi>calling, gifts,</hi> or <hi>diſpoſition</hi> of ſuch a miniſter, I like not joyning in aſſembly <hi>with</hi> profane perſons.</p>
+               <p>Doctor <hi>Ames,</hi> a known enemy of the Church-go<g ref="char:EOLhyphen"/>vernment here, and ſomething inclining to the <hi>New England</hi> mode, in his Book <hi>de conſcientia,</hi> Chap. 4. ſpeaks thus: If any through errour of conſcience ſhould judge it unlawful to be preſent at the Church aſſembly,<note place="margin">Si quis per con<g ref="char:EOLhyphen"/>ſcientiae erro<g ref="char:EOLhyphen"/>rem, illi eitum judicaret in<g ref="char:EOLhyphen"/>tereſſe caetui eccleſiae, cui ali<g ref="char:EOLhyphen"/>as tenetur ad<g ref="char:EOLhyphen"/>eſſe, quia mi<g ref="char:EOLhyphen"/>niſtrum illius eccleſiae impro<g ref="char:EOLhyphen"/>bum hominem eſſe novit, &amp; ſe communicaturum putat cum ejus improbitate, ille magis peccat abſtinendo, quam ſi adeſſet, quia gravius eſt peccatum negligere cultum Dei quam communicare cum alterius improbitate perſonali in illo cultu. <hi>Ameſ. de conſc. cap. 4.</hi>
+                  </note> becauſe he knows the Miniſter to be a bad-man, and imagines he ſhall by his preſence there par<g ref="char:EOLhyphen"/>take with his improbity, he ſins much more by keep<g ref="char:EOLhyphen"/>ing away, then by being preſent; becauſe it is a far greater ſin to neglect the worſhip of God, then to communicate with anothers improbity, except a man by being preſent were forced to commit idolatry. Thus <hi>Ameſius.</hi>
+               </p>
+               <p>But no man in our aſſemblies is forced to practice or behold any ſuch thing as idolatry. Nor doth he that is preſent where ſinners are at Gods worſhip, communicate therefore with them in their ſins, any more then by living in the ſame Pariſh with them. The ancient non-conformiſts were all of this judge<g ref="char:EOLhyphen"/>ment, and ſo are generally if not totally the Divines of the Presbyterian judgment at this day. Fearful no doubt is their ſin, and ſo it will appear at the laſt day, to refrain Gods publick Ordinances upon ſuch pretences; much more upon pride, lazineſs, and ha<g ref="char:EOLhyphen"/>tred of Church-men and Church-government.</p>
+               <p>
+                  <note place="margin">Atheiſts.</note>No greater contemners of God, then ſuch as con<g ref="char:EOLhyphen"/>temn his publick worſhip and ſervice, who give not unto the Lord the glory due unto his name,<note place="margin">1 <hi>Chron.</hi> 16.29.</note> that bring not an offering, nor come before him to wor<g ref="char:EOLhyphen"/>ſhip
+<pb n="25" facs="tcp:93742:15"/> the Lord in the beauty of holineſs: Who wor<g ref="char:EOLhyphen"/>ſhip not the Lord in his ſanctuary,<note place="margin">Pſal. 29.12.</note> nor delight to give thanks to him in a great congregation or praiſe him among much people:<note place="margin">Pſal. 35.18.</note> more Atheiſm and con<g ref="char:EOLhyphen"/>tempt of the divine Majeſty they cannot ſhew, ex<g ref="char:EOLhyphen"/>cept they ſhould proclaim it in every Market, or write it upon every Wall, that there is no God. And if it be not timouſly prevented, a deluge of <hi>Heatheniſm</hi> and <hi>Atheiſm</hi> will quickly ruſh in upon us. Divers there are that have not been at Church for many years, nor do they at all uſe or frequent the Sectarian Aſſemblies or any other, but ſit at home following their own occaſions. Others not ſo bad, come to the publick Aſſemblies, but very rarely, very unconſtantly. Some come reaſonable duly, but it is only as <hi>hearers;</hi> they never partake of the Lords Supper, though never ſo earneſtly invited and per<g ref="char:EOLhyphen"/>ſwaded; they are ſo bold as to plead againſt it, as a thing needleſs and unprofitable; they common<g ref="char:EOLhyphen"/>ly urge the danger of unworthy participation, and the difficulty of ſelf-examination as a reaſon of Non-Communion. They would make the world believe that Chriſt hath given ſome dangerous law to his Church, whoſe yoke is eaſie and burden is light. And ſome of this ſort, the younger ſort eſpe<g ref="char:EOLhyphen"/>cially come (as by their carriage it appears) partly to gaze, to feed their wanton ſenſes, to talk and diſ<g ref="char:EOLhyphen"/>courſe of vanities, even then whilſt God is ſpeaking to them in his Word; yea, which is worſe, to ma<g ref="char:EOLhyphen"/>nifeſt and make known to all how little they regard the oracles of God: ſuch an heap of libertiniſm have the late <hi>Anarchical confuſions</hi> left ſtill behind them. Inſomuch that what with the Atheiſtical practiſes of ſome who own no Church; the cold and looſe deal<g ref="char:EOLhyphen"/>ing of others that own it at their leaſure; and the dividing practiſes of a conſiderable number who fre<g ref="char:EOLhyphen"/>quent none but ſuch as are private; the publick wor<g ref="char:EOLhyphen"/>ſhip of God, the glory and ſtrength, the beauty and ſecurity of a Nation is ſadly eclipſed. But I hope it
+<pb n="26" facs="tcp:93742:16"/> is <hi>but in an eclipſe,</hi> and ſo will again recover. Lord let not the Gates of <hi>Sion</hi> mourn, which thou loveſt more then all the dwellings of <hi>Jacob!</hi> If it be thy goodneſs to thy Church,<note place="margin">Iſa. 30.20.</note> that her Teachers ſhall not be removed into a corner, but her eyes ſhall behold them, it is no leſs, that her people ſhall not remove into corners, but that her Teachers eyes ſhall behold their people.</p>
+               <p>I deny not but ſuch may be the Churches exigen<g ref="char:EOLhyphen"/>cy, as that ſhe may for ſome time and in ſome de<g ref="char:EOLhyphen"/>gree, bear with ſuch as are erroneous and ſcrupulous, when it is for the good and ſafety of the ſound part of the Church; but this I preſume not to deal upon. All that I preſume to ſay (and none can blame me for it) is this: They that own our rule, but not our principles and diſcipline, have leſs to plead for their ſeparation; and they that own both our rule, principles and diſcipline, have nothing to plead; ab<g ref="char:EOLhyphen"/>horring Sectarian principles,<note place="margin">Atheiſts and Libertins.</note> yet ſhrowding them<g ref="char:EOLhyphen"/>ſelves under their practices.</p>
+               <p n="3">3. However ſuch a conſcience is tender of all divine laws, yet is it in a more peculiar and re<g ref="char:EOLhyphen"/>markable manner tender of Chriſts <hi>new</hi> and <hi>great Commandement</hi> of <hi>Love,</hi> and conſequently of his in<g ref="char:EOLhyphen"/>junction ſo earneſtly and frequently inculcated by the Apoſtle, to beware of making <hi>Schiſms, Diviſions,</hi> and <hi>Separations.</hi> He hath no tender conſcience that is not tender and fearful of making breaches and parties in the Church of God.</p>
+               <p n="4">4. A tender conſcience is tender of another mans conſcience. Some that former years profeſſed ten<g ref="char:EOLhyphen"/>derneſs about a <hi>White Garment,</hi> about Kneeling and Standing Geſtures, &amp;c. when they had got the power into their own hands,<note place="margin">It was mine own lot to have the Co<g ref="char:EOLhyphen"/>venant tendered me ſo ſoon as Printed, and upon my abſolute refuſal, to be ex<g ref="char:EOLhyphen"/>iled from my Flock, <hi>March</hi> 2. 1643. and put to ſad exigencies.</note> had no mercy on the conſci<g ref="char:EOLhyphen"/>ences of their brethren that had a thouſand times more cauſe to be tender and wary of <hi>taking</hi> the <hi>Cove<g ref="char:EOLhyphen"/>nant;</hi>
+                  <pb n="27" facs="tcp:93742:16"/> but they who had ſtrained at the former <hi>gnats,</hi> did not only ſwallow the <hi>Covenant Camel,</hi> but did en<g ref="char:EOLhyphen"/>deavour to cram and ram it down the throats of their brethren, <hi>wrenching open</hi> their <hi>jaws</hi> with the <hi>cold</hi> and <hi>harſh key</hi> of poverty and ruin; and which was worſe, making ſuch ſcandalous that ſhould refuſe it, how <hi>unwarrantable</hi> ſoever from the impoſers and compoſers, how <hi>unſuitable</hi> ſoever for the matter to ſound and ſworn principles, and how <hi>pernicious</hi> ſo<g ref="char:EOLhyphen"/>ever in the ends and effects of it.</p>
+               <p n="5">5. It is tender of <hi>both</hi> Tables of the Law. If it will not admit of <hi>profaneſs,</hi> neither will it of <hi>unrighte<g ref="char:EOLhyphen"/>ouſneſs.</hi> If it be tender of an <hi>idle</hi> and <hi>vain oath,</hi> it is no leſs of <hi>detraction;</hi> if of <hi>neglecting</hi> the <hi>Sabbath,</hi> ſo alſo of <hi>neglecting</hi> the <hi>Poor;</hi> if it abhorrs <hi>Idols,</hi> which are a breach of the firſt Table, it abandons <hi>Sacriledge,</hi> which is a breach of <hi>both</hi> Tables.</p>
+               <p n="6">6. It is troubled if it hath admitted any thing againſt the clear rule, be it never ſo little, be it but in a thought, <hi>Deut.</hi> 15.9. Beware there be not a thought in thy wicked heart, <hi>Iſa.</hi> 35.4. He is of a fearful heart, <hi>Eccle.</hi> 10.20. <hi>Curſe not</hi> the <hi>King, no</hi> not in thy <hi>thought.</hi>
+                  <note place="margin">
+                     <hi>2</hi> Cor. <hi>8.20. Avoiding this, that no man ſhould blame us,</hi> &amp;c. Dua res ſunt conſcientia &amp; ſama. propter nos conſcientia noſtra nobis ſufficit: pro<g ref="char:EOLhyphen"/>pter alios fama neceſſaria eſt: conſcientiatibi, fama; proximo. <hi>Auguſt. Serm. priore de vita com. ſuorum clericorum.</hi>
+                  </note> They dare not let any <hi>ſpot</hi> of <hi>guilt</hi> cleave to them; Their converſation ſhews they do exerciſe themſelves to have always a conſcience void of offence towards God and towards Men, <hi>Act.</hi> 24.16.</p>
+               <p n="7">7. Above all men to be void of offence towards the Magiſtrate. He is not apt by any intemperate ſpeeches, much leſs, otherwiſe to fly upon the Law or the Magiſtrate, yea though they ſhould require what he cannot do. His prayers are as many for him, his <hi>good ſpeeches</hi> as frequent of him, and his <hi>fidelity</hi> as great towards him, as if he had never received any difficult law from him. He tranſlates thoſe precepts out of <hi>OEconomicks</hi> into <hi>Politicks,</hi> which are given us <hi>Eph.</hi> 6.3. <hi>Col.</hi> 3.22. 1 <hi>Pet.</hi> 2.18. He bears meekly the will and ſuffers meekly the anger of the Magiſtrate.</p>
+               <pb n="28" facs="tcp:93742:17"/>
+               <p>To what he may yield he is the forwarder if he cannot yield to every thing. He is firſt moſt tender of provoking <hi>God,</hi> and next of provoking <hi>Gods Vice<g ref="char:EOLhyphen"/>gerents.</hi> It is the grief of his ſoul if he cannot come up to every thing the Magiſtrate expects of him.</p>
+               <p n="8">8. He is willing to be <hi>inform'd,</hi> and to hear what may be ſaid. As he is tender of doing any thing con<g ref="char:EOLhyphen"/>trary to his judgment, ſo is he tender of judging con<g ref="char:EOLhyphen"/>trary to the truth. He is not ſelf-willed, but will hear what may be ſaid againſt his way and his intereſt. <hi>Eli</hi> knew <hi>Samuel</hi> had a ſharp meſſage, yet ſays he, God do ſo to thee, and more alſo if thou hide, <hi>&amp;c.</hi> 1 <hi>Sam.</hi> 3.17</p>
+               <p n="9">
+                  <note place="margin">
+                     <hi>Gal.</hi> 2.13. And the other Jews diſſembled likewiſe with him, in ſo much that <hi>Bar<g ref="char:EOLhyphen"/>nabas</hi> alſo was carried away with their diſſimulation</note>9. He is <hi>not apt</hi> to be <hi>cenſorious,</hi> he conſiders that a <hi>good man</hi> may fall <hi>by temptation,</hi> and he rejoyces not at the fall of his brother, <hi>Prov.</hi> 24.16. A juſt man falls ſeven times a day, <hi>v.</hi> 17. rejoyce not when thine enemy falls. He ſcoffs not at, nor triumphs over his enemy much leſs his neighbour and friend when he is down, but ſeeks his reſtoring, conſidering himſelf leſt he alſo be tempted, <hi>Gal.</hi> 6.1.</p>
+               <p n="10">10. <hi>Conſcientia tenera non eſt temeraria.</hi> In doubtful caſes it will ſeek and ask for information before it acts; though it is <hi>not ſcrupulous,</hi> it is <hi>wary, conſide<g ref="char:EOLhyphen"/>rate</hi> and <hi>watchful;</hi>
+                  <note place="margin">Seek ye out of the books of the Lord and read. <hi>Iſa.</hi> 34.16.</note> it takes counſel concerning the ways of God in Gods way, it goes to the Law and to the Teſtimony, <hi>Iſa.</hi> 8.20. and if it want underſtand<g ref="char:EOLhyphen"/>ing in that, is goes to the Interpreter, <hi>Job</hi> 33.23. to the Prieſt, whoſe lips ſhould preſerve knowledge, at whoſe mouth they ſhould ſeek the Law:<note place="margin">
+                     <hi>Mal.</hi> 2.7.</note> if He cannot ſatisfie, it inquires what the Church in her Synods and Councils hath univerſally determin'd; not building its faith on the Church, which is built upon the faith it ſelf,<note place="margin">See for this <hi>Eccleſiaſt.</hi> 6.33.— 36. and ch. 8.8, 9.</note> 
+                  <hi>Mat.</hi> 16. but in doubtful caſes chuſing pub<g ref="char:EOLhyphen"/>lick interpretation before private, and acquieſcing therein, though not as a ground of faith, yet as the ſafeſt and probable means of knowledge and inſtru<g ref="char:EOLhyphen"/>ction.</p>
+               <pb n="29" facs="tcp:93742:17"/>
+               <p>Theſe are the adjuncts and properties of a true tender conſcience.</p>
+            </div>
+            <div type="conclusion">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſtion. </seg>
+                  </label> 
+                  <hi>But all this while what ſhall we ſay to a doubting con<g ref="char:EOLhyphen"/>ſcience?</hi> Rom. 4.23. He that doubteth is damned or judged if he eat, becauſe whatſoever is not of faith is ſin.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>1</label> A dubious conſcience is ſomewhat like a tender conſcience, though not the ſame with it.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>2</label> It is obſervable, the things the Apoſtle ſpeaks of, are matters of <hi>religion</hi> and not about civil matters. So that if a man ſhould doubt in civil matters, this Text will give no ſure footing for forbearance upon doubting; as if a man ſhould doubt whether he might lawfully undertake the office of a <hi>Conſtable</hi> or <hi>Headbo<g ref="char:EOLhyphen"/>rough,</hi> or whether he might <hi>pledge</hi> his friend when he <hi>drinks</hi> to him, or in a thouſand inſtances more.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>3</label> The Apoſtle doth not inſtance in things clearly evil or good, but ſuch as at that juncture of time, betwixt the ſetting of the Law and the dawning of the Goſpel were dark and ſomewhat doubtful, as about the Jewiſh meats and feſtivals, yea, were in reſpect of expreſs and clear good, not conſiderable; and therefore ſays, that the kingdome of God is not, <hi>i. e.</hi> doth not ſo much value eating or forbearing meats or drinks, but righteouſneſs, peace, and joy in the Holy Ghoſt: the Apoſtle therefore making a clear diſtinction, be<g ref="char:EOLhyphen"/>twixt things <hi>uncertainly</hi> good and things <hi>abſolutely</hi> good; I ſay, thoſe things that he hath put aſunder let no man joyn together, as if they were the ſame matter of doubting.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>4</label> Therefore if any ſhall be ſo blind and bold as to ſay, let a thing be never ſo good that is required of me, if I be not perſwaded it is good, I may not do it; or let it be never ſo evil, if I be perſwaded I ſhould do it, I muſt; they have no ground from the Apo<g ref="char:EOLhyphen"/>ſtles doctrine, who only ſpeaks of doubting at meats
+<pb n="30" facs="tcp:93742:18"/> and days which he diſtinguiſhes from manifeſt good, <hi>verſ.</hi> 17.</p>
+               <p>
+                  <note place="margin">Thou haſt de<g ref="char:EOLhyphen"/>ſpiſed my ho<g ref="char:EOLhyphen"/>ly things, and haſt profaned my Sabbaths, <hi>Ezek.</hi> 22.8.</note>If therefore the thing be <hi>clearly good,</hi> as to receive the holy Supper, to joyn in publick prayer, to hear the holy Word read, interpreted and applyed, though the conſcience ſhould ſtick at theſe good things ex<g ref="char:EOLhyphen"/>preſly commanded (which ſurely muſt need be ſome <hi>ſtrange faſhion'd exotick</hi> conſcience) yet are we bound to perform the aforenamed duties, or any other of the like nature.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>5</label> In like manner we may ſay, if the thing be expreſly evil, as to Worſhip an Image, to Forſwear ones ſelf, to Rob my Neighbour, to Lye with my Siſter, to Kill my Brother, though conſcience ſhould urge me to any of theſe or the like, I may not do them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>1</label> Becauſe, elſe we ſet conſcience above God, which is a breach both of the firſt and ſecond Commande<g ref="char:EOLhyphen"/>ments 1 <hi>Joh.</hi> 3.20. God is greater then our conſci<g ref="char:EOLhyphen"/>ence. Conſcience muſt not regulate the Word of God, but that muſt regulate the conſcience.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>2</label> It is an undoubted rule, <hi>Nulla eſt obligatio ad illi<g ref="char:EOLhyphen"/>cita.</hi> Gods law obliges not to ſin, therefore conſci<g ref="char:EOLhyphen"/>ence which is to be ruled by that, muſt not. Errour is a ſin, and how can it bind? And if we are bound to lay down error of judgement, then alſo errour of conſcience, both being part of the old man to be put off <hi>Eph.</hi> 4.22. as is obſerved both by <hi>Ameſius</hi> and <hi>Per<g ref="char:EOLhyphen"/>kins.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>3</label> If men ſhould plead never ſo much ſatisfaction of conſcience to do the forementioned evils, or forbear the good aforeſaid, yet every man hath in him ſo much certainly of the law of nature, and every Chri<g ref="char:EOLhyphen"/>ſtian probably ſo much of the knowledge of the Word, that they can neither do the evil or forbear the good without <hi>reluctancy,</hi> ſo that conſcience in ſuch caſes if pleaded is but a fond and weak pretence.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſ. </seg>4</label> Grant but this allowable, what good may not be omitted? All the <hi>ordinances</hi> of God may lye <hi>unfre<g ref="char:EOLhyphen"/>quented</hi>
+                  <pb n="31" facs="tcp:93742:18"/> and diſuſed, neglected and affronted, Yea what miſchiefs may not be acted upon pretext of con<g ref="char:EOLhyphen"/>ſcience? One neighbour may plunder, pillage, yea,<note place="margin">So it was here at home, of which times I might truly ſay as <hi>Syneſ. hym.</hi> 1. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, But bleſſed be God, I may ſay what he adds, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and murder another upon this pretext; Servants may make away their Maſters goods &amp; them too; Children may butcher their Parents, and which is more, Sub<g ref="char:EOLhyphen"/>jects their King; what<note n="(a)" place="margin">Et quando uberior vitiorum copia? <hi>Juvenal Satyr. 1.</hi>
+                  </note> villanies and outrages were they that were not committed of later years upon pretence of conſcience and reformation? and upon thoſe tragical actings how well did the words of the Poet agree to us?</p>
+               <q>
+                  <l>— Quod mare <hi>nam Anglicae,</hi>
+                     <note place="margin">
+                        <hi>Hor.</hi> lib. 2. od. 1.</note>
+                  </l>
+                  <l>Non decoloravere caedes?</l>
+                  <l>Quae caret Ora cruore noſtro?</l>
+               </q>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>6</label> If the thing be not forbidden by God, but lawful or not evil but indifferent, if the Magiſtrate command it to be done,<note place="margin">Res alioqui per ſe mediae mu<g ref="char:EOLhyphen"/>tant quodam<g ref="char:EOLhyphen"/>modo naturam, quum aliquo legitimo man<g ref="char:EOLhyphen"/>dato vel praeci<g ref="char:EOLhyphen"/>piuntur, vel prohibentur— <hi>Beza epiſt. 24. ad fratres peregrinarum eccleſiarum in Anglia.</hi>
+                  </note> though we know not the good or the end of the ordinance, the conſcience is bound to yield to it; otherwiſe we take away from the Ma<g ref="char:EOLhyphen"/>giſtrate the power of making laws and ordinances, and give him only a power to confirm them that are made already in Scripture contrary to 1 <hi>Pet.</hi> 2.13.</p>
+               <p>If the Magiſtrate make a law about meats,<note place="margin">Etſi conſcien<g ref="char:EOLhyphen"/>tias propri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſo<g ref="char:EOLhyphen"/>lus Deus ligat: tamen quate<g ref="char:EOLhyphen"/>nus vel mag<g ref="char:EOLhyphen"/>ſtratus qui Dei miniſter eſt ju<g ref="char:EOLhyphen"/>dicat <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reſſe reipublicae, ut quippiam alio qui pro ſe licitum non fiat: vel Eccleſia ord<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nis &amp; decori adeoque aedificationis rationem habens, leges aliquas de rebus mediis rite condit, illae leges à pijs omninò ſunt obſervan<g ref="char:EOLhyphen"/>da. <hi>Beza ibid.</hi>
+                  </note> which are in themſelves and ſo acknowledged by him to be but indifferent, let it be out of civil ends for the good of the commonwealth, or out of religious ends, <hi>viz.</hi> charitably and chriſtianly to comply with the ancient Churches of Chriſt, however a ſubject may plead mat<g ref="char:EOLhyphen"/>ter of health or want, yet the plea of conſcience in this caſe is unwarrantable and ridiculous.</p>
+               <pb n="32" facs="tcp:93742:19"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>7</label> If the thing be lawful in it ſelf, and indifferent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s meats are,<note place="margin">1 Cor. 8.8.</note> and no obligation from the Governour lies upon me,<note place="margin">Leges Magi<g ref="char:EOLhyphen"/>ſtratus, eate<g ref="char:EOLhyphen"/>nus conſcien<g ref="char:EOLhyphen"/>tias ligant ut nemo ſciens &amp; prudens rebel<g ref="char:EOLhyphen"/>landi animo, poſſit abſque ptccato vel facere quae ita prohibentur, vel omittere quae fic praecipiuutur. <hi>Beza ibid.</hi>
+                  </note> I am then left to follow the light of mine own conſcience, and to take care I do nothing againſt mine own perſwaſion, for of ſuch things are the Apoſtles inſtances, and not of things commanded by God or man, or forbidden.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>8</label> If the thing be lawful and indifferent, both in re<g ref="char:EOLhyphen"/>gard of Gods law, of mans law, and in the perſwa<g ref="char:EOLhyphen"/>ſion of mine own conſcience, ſo that I think I may uſe it or not uſe it, do it or not do it, and have no tye any of thoſe 3. ways, either from God, Man, or my Self, I muſt then look next to the Apoſtles rule concerning offences.<note place="margin">
+                     <hi>1 Cor. 10.29.</hi> Nulla ratione committere de<g ref="char:EOLhyphen"/>beo, nec occaſio<g ref="char:EOLhyphen"/>nem dare ut alius erroneam &amp; infirmam habens conſci<g ref="char:EOLhyphen"/>entiam, Iudi<g ref="char:EOLhyphen"/>cet, i. e. dam<g ref="char:EOLhyphen"/>net libertatem meam qua poſſum indiffe<g ref="char:EOLhyphen"/>renter quidvis <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eder<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Eſtius in locum.</hi>
+                  </note> 1. Not judge or deſpiſe him that is not juſt of my perſwaſion, <hi>Rom.</hi> 14.3. 2. Not lay a ſtumbling block in our brothers way, <hi>verſ.</hi> 13. Nor to give him occaſion to think ill of me. 3. Not to grieve or afflict our brother with our liberty, <hi>verſ.</hi> 25.4. Not to occaſion any brangling or diſ<g ref="char:EOLhyphen"/>puting, but rather to forbear that, how lawful ſo<g ref="char:EOLhyphen"/>ever that may occaſion it, <hi>v.</hi> 19. Let us therefore fol<g ref="char:EOLhyphen"/>low after the things which make for peace, and things wherewith we may edifie one another, <hi>Gal.</hi> 5.13. For brethren ye have been called unto liberty, only uſe not your liberty for an occaſion to the fleſh, but by love ſerve one another.</p>
+               <closer>Domine Deus, da nob<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s celeriter audire, frequenter legere, diligenter attendere, recte intelligere, tuto agere, bene &amp; inculpate vivere, per Jeſum Chriſtum Dominum &amp; ſalvatorem noſtrum. <hi>Amen.</hi>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:93742:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
